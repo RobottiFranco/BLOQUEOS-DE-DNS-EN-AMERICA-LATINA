@@ -1,4 +1,4 @@
-def _filtrar_dns(self, datos: dict) -> list:
+def _filtrar_dns(datos: dict) -> list:
     result = []
     if "results" in datos:
         for item in datos["results"]:
@@ -7,7 +7,7 @@ def _filtrar_dns(self, datos: dict) -> list:
     return result
 
 
-def _eliminar_duplicados(self, datos: list) -> list:
+def _eliminar_duplicados(datos: list) -> list:
     seen_inputs = set()
     result = []
 
@@ -20,5 +20,5 @@ def _eliminar_duplicados(self, datos: list) -> list:
     return result
 
 
-def filtrar_y_eliminar_duplicados(self, datos: dict) -> list:
-    return self._eliminar_duplicados(self._filtrar_dns(datos))
+def filtrar_y_eliminar_duplicados(datos: dict) -> list:
+    return _eliminar_duplicados(_filtrar_dns(datos))

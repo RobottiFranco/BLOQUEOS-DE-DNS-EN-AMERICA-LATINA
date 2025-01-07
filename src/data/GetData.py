@@ -1,7 +1,7 @@
 import time
 import requests
 
-from interfaces import IExecute
+from interfaces.IExecute import IExecute
 
 class GetData(IExecute):
     def backoff(self, attempt) -> int:
