@@ -21,3 +21,4 @@ def extraer_datos_por_mes(since: int = 2023, until: int = 2025) -> None:
 
 extraer_datos_por_mes()
 crear_ooni_run_link("data/raw/lista_global_bruta.csv", "lista_global_procesada", "data/processed")
+crear_ooni_run_link("data/processed/lista_global_procesada.csv", "lista_global_procesada_v2", "data/processed")
