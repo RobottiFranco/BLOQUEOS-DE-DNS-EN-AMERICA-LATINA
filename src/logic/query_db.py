@@ -1,5 +1,5 @@
+from src.logic.query import Query
 
-from data.Query import Query
 
 class QueryDB(Query):
     def __init__(self, query: Query, limit: int, anomaly: bool):
@@ -21,4 +21,4 @@ class QueryDB(Query):
             "ooni_run_link_id": self.query.ooni_run_link_id,
             "category_code": self.query.category_code,
         }
-        return super().buildQuery(self.query.base_url, parametros)
+        return self.query.build_query(parametros)

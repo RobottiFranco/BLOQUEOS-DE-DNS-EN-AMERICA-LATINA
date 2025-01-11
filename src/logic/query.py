@@ -1,6 +1,6 @@
 import urllib.parse
 
-from interfaces.IQuery import IQuery
+from src.interfaces.i_query import IQuery
 
 class Query(IQuery):
     def __init__(self, base_url: str, test_name: str = None, probe_cc: str = None, since: str = None, until: str = None, ooni_run_link_id: int = None, probe_asn: int = None, domain: str = None, input: str = None, category_code: str = None):
@@ -15,10 +15,9 @@ class Query(IQuery):
         self.input = input
         self.category_code = category_code
 
-    def deleteNoneParams(self, parametros: dict) -> dict:
+    def _delete_none_params(self, parametros: dict) -> dict:
         return {k: v for k, v in parametros.items() if v is not None}
 
-    def buildQuery(self, base_url, parametros: dict) -> str:
-        parametros = self.deleteNoneParams(parametros)
-        return base_url + "?" + urllib.parse.urlencode(parametros, doseq=True)
-
+    def build_query(self, parametros: dict) -> str:
+        parametros = self._delete_none_params(parametros)
+        return self.base_url + "?" + urllib.parse.urlencode(parametros, doseq=True)
