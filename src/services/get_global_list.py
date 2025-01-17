@@ -1,6 +1,6 @@
-from src.logic.fetch_api import FetchAPI
 from src.logic.query import Query
 from src.logic.query_db import QueryDB
+from src.utils.fetch_data import fetch_data
 from src.utils.csv_utils import create_file_and_path, save_to_csv
 from src.utils.data_filter import filter_and_remove_duplicates, filter_dns
 
@@ -30,9 +30,3 @@ def get_global_list(query: Query, limit: int, anomaly: bool, output_directory: s
         save_to_csv(path, filtered_data, mode)
     except Exception as e:
         print(f"Error al obtener datos: {e}")
-
-def fetch_data(query_db: str):
-    """Obtiene los datos de la URL usando la clase FetchAPI."""
-    fetcher = FetchAPI()  
-    data = fetcher.execute(query_db) 
-    return data
