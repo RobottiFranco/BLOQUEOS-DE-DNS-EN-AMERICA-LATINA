@@ -25,22 +25,8 @@ def extraer_datos_por_mes(since: int = 2023, until: int = 2025) -> None:
             since += 1
         since = 2023
         
-def extraer_datos_por_dia(since: int = 1, until: int = 16) -> None:
-    while since <= until:
-        query_builder = QueryBuilder() \
-            .set_base_url(query_db) \
-            .set_test_name("web_connectivity") \
-            .set_since(f"2025-01-{since}") \
-            .set_until(f"2025-01-{since + 1}") \
-            .set_ooni_run_link_id("10118") \
-            .build()
-        get_global_list(query_builder, 4000, True, "src/data/raw", "lista_global_actualizada", "a", True)
-        since += 1        
 
-#historico
 extraer_datos_por_mes()
 create_ooni_run_link("src/data/raw/lista_global_bruta.csv", "lista_global_procesada", "src/data/processed")
-
-#actualizado
-extraer_datos_por_dia()
+create_ooni_run_link("src/data/processed/lista_global_procesada.csv", "lista_global_procesada_v2", "src/data/processed")
 
