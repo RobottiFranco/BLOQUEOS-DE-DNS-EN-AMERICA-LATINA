@@ -25,6 +25,7 @@ def get_lock_type(query: Query, measurement_uid: str, output_directory: str, fil
 
         row = {
             "measurement_uid": measurement_uid or "None",
+            "input": data.get("input", "None"),
             "dns_experiment_failure": test_keys.get("dns_experiment_failure", "None")  or "None",
             "http_experiment_failure": test_keys.get("http_experiment_failure", "None")  or "None",
             "dns_consistency": test_keys.get("dns_consistency", "None")  or "None",
