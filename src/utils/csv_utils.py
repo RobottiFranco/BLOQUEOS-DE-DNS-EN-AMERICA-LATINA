@@ -18,6 +18,17 @@ def save_to_csv(output_file: str, data, mode: str):
         print(f"Data saved to {output_file}")
     else:
         print("No data to save.")
+        
+def escribir_tipo_de_bloqueo_csv(archivo_salida: str, datos: list, modo: str):
+    if datos:
+        with open(archivo_salida, mode=modo, newline="", encoding="utf-8") as file:
+            writer = csv.DictWriter(file, fieldnames=datos[0].keys())
+            if file.tell() == 0:
+                writer.writeheader()
+            writer.writerows(datos)
+        print(f"Datos guardados en {archivo_salida}")
+    else:
+        print("No hay datos para guardar.")
 
 
 def write_blocking_type_to_csv(output_file: str, data: list, mode: str):
