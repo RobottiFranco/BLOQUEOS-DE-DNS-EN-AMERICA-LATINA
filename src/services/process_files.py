@@ -15,7 +15,7 @@ def process_files(directory):
         common_inputs = compare_files(reference_data, dataframes, file)
         all_common_inputs = pd.concat([all_common_inputs, common_inputs]).drop_duplicates().reset_index(drop=True)
 
-    output_file = create_file_and_path(directory, "pagina_no_existente.csv")
+    output_file = create_file_and_path(directory, "pages_no_longer_exist.csv")
     all_common_inputs.to_csv(output_file, index=False)
 
     return output_file
