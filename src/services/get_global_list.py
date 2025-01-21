@@ -14,7 +14,6 @@ def filter_data(data, update: bool):
 
 
 def get_global_list(query: Query, limit: int, anomaly: bool, output_directory: str, file_name: str, mode: str, update: bool) -> None:
-    """Función principal para obtener y procesar datos de acuerdo a la consulta."""
     try:
         print(f"Iniciando el proceso de datos para {query.probe_cc}... desde {query.since} hasta {query.until}")
         query_db = QueryDB(query, limit, anomaly)
