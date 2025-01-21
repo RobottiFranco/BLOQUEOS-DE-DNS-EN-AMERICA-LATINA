@@ -5,7 +5,7 @@ from src.utils.csv_utils import create_file_and_path, escribir_tipo_de_bloqueo_c
 from src.utils.fetch_data import fetch_data
 
 
-def get_lock_type(query: Query, measurement_uid: str, output_directory: str, file_name: str, mode: str) -> None:
+def get_lock_type(query: Query, measurement_uid: str, output_directory: str, mode: str) -> None:
     try:
         query_raw = QueryRaw(query)
         query_raw = query_raw.QueryRaw(measurement_uid)
