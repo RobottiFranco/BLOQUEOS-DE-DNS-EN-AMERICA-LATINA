@@ -19,3 +19,17 @@ def process_files(directory):
     all_common_inputs.to_csv(output_file, index=False)
 
     return output_file
+
+
+def delete_no_exist_files(directory, output_file):
+    reference_df = pd.read_csv(output_file)
+    reference_input = reference_df["input"]
+    csv_files = [os.path.join(directory, f) for f in os.listdir(directory) if f.endswith('.csv')]
+    
+    for file in csv_files:
+        if os.path.abspath(file) == os.path.abspath(output_file):
+            continue
+        
+        current_df = pd.read_csv(file)
+        filtered_df = current_df[~current_df['input'].isin(reference_input)]
+        filtered_df.to_csv(file, index=False)
