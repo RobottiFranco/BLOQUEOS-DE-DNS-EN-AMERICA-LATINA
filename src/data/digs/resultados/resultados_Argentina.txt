@@ -1,0 +1,2137 @@
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> tvhd.pepricesaskeloadsc.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 52548
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 477a560e8643e5240100000067964f08e507aaffdfb82d61 (good)
+;; QUESTION SECTION:
+;tvhd.pepricesaskeloadsc.com.	IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:42 -03 2025
+;; MSG SIZE  rcvd: 84
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.ragingbullcampaign.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 46846
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 931fb521d33b0e390100000067964f08b4a481c2c7737631 (good)
+;; QUESTION SECTION:
+;www.ragingbullcampaign.com.	IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:42 -03 2025
+;; MSG SIZE  rcvd: 83
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.ragingbullcampaign.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 35549
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: cd218aef4abe07760100000067964f0821973dcc90abf246 (good)
+;; QUESTION SECTION:
+;www.ragingbullcampaign.com.	IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:42 -03 2025
+;; MSG SIZE  rcvd: 83
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.mnr.gov.cn @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 12105
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 57758e7893d886680100000067964f086a9c9b21d0859b92 (good)
+;; QUESTION SECTION:
+;www.mnr.gov.cn.			IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:42 -03 2025
+;; MSG SIZE  rcvd: 71
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.cencoex.gob.ve @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 14475
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: c7b2321c48ccb7ed0100000067964f080a0f787285b17443 (good)
+;; QUESTION SECTION:
+;www.cencoex.gob.ve.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:42 -03 2025
+;; MSG SIZE  rcvd: 75
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> pwchyt.awsvpni.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 16456
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 58c4ef28334c87b00100000067964f09c1b62096c99fa7d1 (good)
+;; QUESTION SECTION:
+;pwchyt.awsvpni.com.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:42 -03 2025
+;; MSG SIZE  rcvd: 75
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> ariacorinamundo.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 12518
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 197702d24bfbdda40100000067964f09664da386804ba72a (good)
+;; QUESTION SECTION:
+;ariacorinamundo.com.		IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:42 -03 2025
+;; MSG SIZE  rcvd: 76
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> comanditos.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 39397
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 7590730341c4498c0100000067964f09fc59ab036de9c983 (good)
+;; QUESTION SECTION:
+;comanditos.com.			IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:42 -03 2025
+;; MSG SIZE  rcvd: 71
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> notiviasve.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 59630
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 806ba275432d2f210100000067964f09a53232a585f5e844 (good)
+;; QUESTION SECTION:
+;notiviasve.com.			IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:42 -03 2025
+;; MSG SIZE  rcvd: 71
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> cloudapp.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 59254
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 603391ad148346d60100000067964f09692731f9025ff68f (good)
+;; QUESTION SECTION:
+;cloudapp.net.			IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:42 -03 2025
+;; MSG SIZE  rcvd: 69
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> blob.core.windows.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 9144
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: b2173f51c939ad8a0100000067964f09fdea0ba0e83df053 (good)
+;; QUESTION SECTION:
+;blob.core.windows.net.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:42 -03 2025
+;; MSG SIZE  rcvd: 78
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> azurewebsites.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 9793
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 2229e4e2598acce20100000067964f09bd11d3e67ad217b5 (good)
+;; QUESTION SECTION:
+;azurewebsites.net.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:42 -03 2025
+;; MSG SIZE  rcvd: 74
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> pelisplus.me @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 48103
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 072148f3f6c7a01c0100000067964f098df7a6372089542a (good)
+;; QUESTION SECTION:
+;pelisplus.me.			IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:42 -03 2025
+;; MSG SIZE  rcvd: 69
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> vamosganar.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 15535
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: a9df740b48fc2c150100000067964f09180b329d8257ad62 (good)
+;; QUESTION SECTION:
+;vamosganar.com.			IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:42 -03 2025
+;; MSG SIZE  rcvd: 71
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.mariacorinapresidente.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 65306
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: d785bb584bc8a5520100000067964f09b8f662c8e060e92d (good)
+;; QUESTION SECTION:
+;www.mariacorinapresidente.com.	IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:42 -03 2025
+;; MSG SIZE  rcvd: 86
+
+;; communications error to 200.80.203.76#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> cdninstagram.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 43896
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 32eb971ba8082aa40100000067964f0ec842a9a11054e238 (good)
+;; QUESTION SECTION:
+;cdninstagram.com.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:48 -03 2025
+;; MSG SIZE  rcvd: 73
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.cne.gob.ve @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 24132
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: e30b1cb754f916e20100000067964f0e513faa77d02fda2c (good)
+;; QUESTION SECTION:
+;www.cne.gob.ve.			IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:48 -03 2025
+;; MSG SIZE  rcvd: 71
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> surbitcoin.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 3991
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 1c84112710e60ad90100000067964f0e4ca167401abb124a (good)
+;; QUESTION SECTION:
+;surbitcoin.com.			IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:48 -03 2025
+;; MSG SIZE  rcvd: 71
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.match.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 16653
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: c0d9d57da26540850100000067964f0efb56b4cc9c17cbba (good)
+;; QUESTION SECTION:
+;www.match.com.			IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:48 -03 2025
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> primariaexteriorve.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 31508
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 110bea9c00057d960100000067964f0e1195f0e6aff66e34 (good)
+;; QUESTION SECTION:
+;primariaexteriorve.com.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:48 -03 2025
+;; MSG SIZE  rcvd: 79
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> primariaexteriorve.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 38225
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 214f9602e5a74b860100000067964f0eeb9552e93cce40ae (good)
+;; QUESTION SECTION:
+;primariaexteriorve.com.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:48 -03 2025
+;; MSG SIZE  rcvd: 79
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> use-application-dns.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 22727
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 47b0da6e6e3e6d030100000067964f0e4c9f4445172d1098 (good)
+;; QUESTION SECTION:
+;use-application-dns.net.	IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:48 -03 2025
+;; MSG SIZE  rcvd: 80
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> d3l0kqj5h9z9zs.cloudfront.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 25097
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: b6186d81434b2ec00100000067964f0e4f7efa2b6357ed66 (good)
+;; QUESTION SECTION:
+;d3l0kqj5h9z9zs.cloudfront.net.	IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:48 -03 2025
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.museomarino.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 16098
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 783b6dc0bfb7e4fa0100000067964f0edf5b59df9d9b4c3d (good)
+;; QUESTION SECTION:
+;www.museomarino.com.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:48 -03 2025
+;; MSG SIZE  rcvd: 76
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> noticiasvenezuela.org @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 63281
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 39d9497a897571460100000067964f0e13b0221ddf4d7e09 (good)
+;; QUESTION SECTION:
+;noticiasvenezuela.org.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:48 -03 2025
+;; MSG SIZE  rcvd: 78
+
+;; communications error to 200.80.203.76#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.llamagaming.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 6640
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 85ca161efaa9fc9b0100000067964f1313fc0e8687160195 (good)
+;; QUESTION SECTION:
+;www.llamagaming.com.		IN	A
+
+;; Query time: 0 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:51 -03 2025
+;; MSG SIZE  rcvd: 76
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> tvhd.pe @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 39712
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 1e6f89f3434a47380100000067964f137b2dc2224610fc56 (good)
+;; QUESTION SECTION:
+;tvhd.pe.			IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:51 -03 2025
+;; MSG SIZE  rcvd: 64
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> pricesaskeloadsc.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 40539
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: b5fbd6d48bf7f62d0100000067964f1358f2698b7f5e5370 (good)
+;; QUESTION SECTION:
+;pricesaskeloadsc.com.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:51 -03 2025
+;; MSG SIZE  rcvd: 77
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.ragingbullcampaign.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 41888
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 84737a18871fd6500100000067964f13b59f3807d6dbcb15 (good)
+;; QUESTION SECTION:
+;www.ragingbullcampaign.com.	IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:51 -03 2025
+;; MSG SIZE  rcvd: 83
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.ragingbullcampaign.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 33699
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 180c52ab79c917d50100000067964f13dfd56eb4c2fec376 (good)
+;; QUESTION SECTION:
+;www.ragingbullcampaign.com.	IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:51 -03 2025
+;; MSG SIZE  rcvd: 83
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.mnr.gov.cn @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 45518
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 6d49fc874c69fcc10100000067964f13239b8761bd191495 (good)
+;; QUESTION SECTION:
+;www.mnr.gov.cn.			IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:51 -03 2025
+;; MSG SIZE  rcvd: 71
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.cencoex.gob.ve @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 51625
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 24a4d367ac0599150100000067964f133dc1c3033a8d3022 (good)
+;; QUESTION SECTION:
+;www.cencoex.gob.ve.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:51 -03 2025
+;; MSG SIZE  rcvd: 75
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> pwchyt.awsvpni.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 50479
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 740853c50f16aeae0100000067964f13f472801e23e772ec (good)
+;; QUESTION SECTION:
+;pwchyt.awsvpni.com.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:51 -03 2025
+;; MSG SIZE  rcvd: 75
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> mariacorinamundo.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 23582
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: fc1ededae0131e760100000067964f131be268d2e23a4042 (good)
+;; QUESTION SECTION:
+;mariacorinamundo.com.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:51 -03 2025
+;; MSG SIZE  rcvd: 77
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> comanditos.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 38817
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: ec4cf6da8d53f5fa0100000067964f130aebb524720dd0fb (good)
+;; QUESTION SECTION:
+;comanditos.com.			IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:51 -03 2025
+;; MSG SIZE  rcvd: 71
+
+;; communications error to 200.80.203.76#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> notiviasve.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 34574
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 521827d74f8896c60100000067964f18939fef380563b361 (good)
+;; QUESTION SECTION:
+;notiviasve.com.			IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:56 -03 2025
+;; MSG SIZE  rcvd: 71
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> ooni.cloudflare-dns.comdns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 46240
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 563ba440455fb7bd0100000067964f18d05ff39a154349af (good)
+;; QUESTION SECTION:
+;ooni.cloudflare-dns.comdns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB. IN A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:56 -03 2025
+;; MSG SIZE  rcvd: 138
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> cantv.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 9609
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: b654763fa16d17f10100000067964f18469377b495c290d9 (good)
+;; QUESTION SECTION:
+;cantv.net.			IN	A
+
+;; Query time: 10 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:56 -03 2025
+;; MSG SIZE  rcvd: 66
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> cloudapp.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 12497
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 8d01a387a85810f80100000067964f1885c903e080092863 (good)
+;; QUESTION SECTION:
+;cloudapp.net.			IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:56 -03 2025
+;; MSG SIZE  rcvd: 69
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> blob.core.windows.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 52225
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 5eaf89d8ad5cafbf0100000067964f18b72fb2478582c7f3 (good)
+;; QUESTION SECTION:
+;blob.core.windows.net.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:56 -03 2025
+;; MSG SIZE  rcvd: 78
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> azurewebsites.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 21409
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 57ef75bf08acf9e70100000067964f18751170a3db9599be (good)
+;; QUESTION SECTION:
+;azurewebsites.net.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:56 -03 2025
+;; MSG SIZE  rcvd: 74
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> pelisplus.me @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 31595
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 7ae8db88d053255b0100000067964f18fffd309041ac9efd (good)
+;; QUESTION SECTION:
+;pelisplus.me.			IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:56 -03 2025
+;; MSG SIZE  rcvd: 69
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> vamosganar.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 27480
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 2d62b93dff37fe2c0100000067964f1828c6f04c85e96904 (good)
+;; QUESTION SECTION:
+;vamosganar.com.			IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:56 -03 2025
+;; MSG SIZE  rcvd: 71
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.mariacorinapresidente.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 63553
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: c3f810a397f9e5670100000067964f188730327e224576d1 (good)
+;; QUESTION SECTION:
+;www.mariacorinapresidente.com.	IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:57 -03 2025
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> cdninstagram.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 49417
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 2eabd43c8b5de83b0100000067964f18dd655609f0751c81 (good)
+;; QUESTION SECTION:
+;cdninstagram.com.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:04:57 -03 2025
+;; MSG SIZE  rcvd: 73
+
+;; communications error to 200.80.203.76#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.cne.gob.ve @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 23511
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: e4f14458a05ccc6d0100000067964f1de65820aa8e6479ce (good)
+;; QUESTION SECTION:
+;www.cne.gob.ve.			IN	A
+
+;; Query time: 31 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:02 -03 2025
+;; MSG SIZE  rcvd: 71
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> surbitcoin.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 17016
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: beb24a22fcbf57fb0100000067964f1dd652c5dee82babc5 (good)
+;; QUESTION SECTION:
+;surbitcoin.com.			IN	A
+
+;; Query time: 31 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:02 -03 2025
+;; MSG SIZE  rcvd: 71
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> partidounnuevotiempo.org @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 42870
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 3e2c4506f5efe4ea0100000067964f1dc0948bea0d624453 (good)
+;; QUESTION SECTION:
+;partidounnuevotiempo.org.	IN	A
+
+;; Query time: 31 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:02 -03 2025
+;; MSG SIZE  rcvd: 81
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.match.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 4368
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 221d3d75693f84bd0100000067964f1d49e7116101a00881 (good)
+;; QUESTION SECTION:
+;www.match.com.			IN	A
+
+;; Query time: 31 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:02 -03 2025
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> primariaexteriorve.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 19233
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 077618741d356d770100000067964f1d7b004b7715ae1868 (good)
+;; QUESTION SECTION:
+;primariaexteriorve.com.		IN	A
+
+;; Query time: 31 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:02 -03 2025
+;; MSG SIZE  rcvd: 79
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> primariaexteriorve.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 59292
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 6f18ccd245494ac30100000067964f1d3af8755431bc269f (good)
+;; QUESTION SECTION:
+;primariaexteriorve.com.		IN	A
+
+;; Query time: 20 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:02 -03 2025
+;; MSG SIZE  rcvd: 79
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> d3l0kqj5h9z9zs.cloudfront.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 37869
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 6723dcbf98c3b80a0100000067964f1d4a71ade39f75962c (good)
+;; QUESTION SECTION:
+;d3l0kqj5h9z9zs.cloudfront.net.	IN	A
+
+;; Query time: 31 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:02 -03 2025
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.museomarino.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 19305
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 42fe28c7a37be0230100000067964f1d7311f50b8b875321 (good)
+;; QUESTION SECTION:
+;www.museomarino.com.		IN	A
+
+;; Query time: 20 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:02 -03 2025
+;; MSG SIZE  rcvd: 76
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> vocesenlibertad.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 56330
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 8acfc60f100f23510100000067964f1dc827c6256e0f244e (good)
+;; QUESTION SECTION:
+;vocesenlibertad.com.		IN	A
+
+;; Query time: 31 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:02 -03 2025
+;; MSG SIZE  rcvd: 76
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> caminic.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 31467
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 1c014b7c6276411f0100000067964f1d7ed8ac1f810a1ca2 (good)
+;; QUESTION SECTION:
+;caminic.com.			IN	A
+
+;; Query time: 31 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:02 -03 2025
+;; MSG SIZE  rcvd: 68
+
+;; communications error to 200.80.203.76#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.radiomaria.org.ni @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 13103
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: aef8a8b0b35395e60100000067964f22413389ab13f9de20 (good)
+;; QUESTION SECTION:
+;www.radiomaria.org.ni.		IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:07 -03 2025
+;; MSG SIZE  rcvd: 78
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> asodenic.org.ni @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 28554
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: f34123f4b255e36d0100000067964f22354783381fcdde61 (good)
+;; QUESTION SECTION:
+;asodenic.org.ni.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:07 -03 2025
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> grupovenancia.org @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 51372
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 330537e16d888b400100000067964f228d45022fa97c645c (good)
+;; QUESTION SECTION:
+;grupovenancia.org.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:07 -03 2025
+;; MSG SIZE  rcvd: 74
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.allactionhost.comes-niweb-hosting @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 54621
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 0e4ada00a3aa347e0100000067964f221e8d96df3fc69aee (good)
+;; QUESTION SECTION:
+;www.allactionhost.comes-niweb-hosting. IN A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:07 -03 2025
+;; MSG SIZE  rcvd: 94
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> apen.org.ni @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 22111
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: b4cc3e07831616300100000067964f22de4c2b1546a6e101 (good)
+;; QUESTION SECTION:
+;apen.org.ni.			IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:07 -03 2025
+;; MSG SIZE  rcvd: 68
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> puntos.org.ni @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 35356
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 5e123c18f7d9cb2b0100000067964f2266abc792e723f96c (good)
+;; QUESTION SECTION:
+;puntos.org.ni.			IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:07 -03 2025
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 40454
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: d45f1d4240dfb2a90100000067964f22d56bde9fcba03210 (good)
+;; QUESTION SECTION:
+;root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net. IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:08 -03 2025
+;; MSG SIZE  rcvd: 108
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 31254
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 0e7c2c75865865bd0100000067964f23e84eecb1f38a5397 (good)
+;; QUESTION SECTION:
+;root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net. IN A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:08 -03 2025
+;; MSG SIZE  rcvd: 109
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> bogus.d2a8n1.rootcanary.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 26716
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 3872f86f3c9e14e50100000067964f239b21d430c6fb2420 (good)
+;; QUESTION SECTION:
+;bogus.d2a8n1.rootcanary.net.	IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:08 -03 2025
+;; MSG SIZE  rcvd: 84
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> alpha66.org @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 56348
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: e3e51e156dcb61250100000067964f23f2ba25c4a751e535 (good)
+;; QUESTION SECTION:
+;alpha66.org.			IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:08 -03 2025
+;; MSG SIZE  rcvd: 68
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.alpha66.org @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 50840
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 2d599e088bdb0ed20100000067964f238a3a6827f0082e22 (good)
+;; QUESTION SECTION:
+;www.alpha66.org.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:08 -03 2025
+;; MSG SIZE  rcvd: 72
+
+;; communications error to 200.80.203.76#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.alpha66.org @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 2483
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 04ac4a3188d65de30100000067964f279cbca21fb148953a (good)
+;; QUESTION SECTION:
+;www.alpha66.org.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:13 -03 2025
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.abelsierramadero.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 57363
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 3106c46b7bcbbac60100000067964f27c29e9df0d9d36a03 (good)
+;; QUESTION SECTION:
+;www.abelsierramadero.com.	IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:13 -03 2025
+;; MSG SIZE  rcvd: 81
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.consensocubano.org @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 38146
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 7d192e77d52b3aa30100000067964f271cdedac7c12e700d (good)
+;; QUESTION SECTION:
+;www.consensocubano.org.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:13 -03 2025
+;; MSG SIZE  rcvd: 79
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> https:911truth.org @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 25332
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 736dae79aecd5b7c0100000067964f277558821587064784 (good)
+;; QUESTION SECTION:
+;https:911truth.org.		IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:13 -03 2025
+;; MSG SIZE  rcvd: 75
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> alpha66.org @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 43491
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: f77ad998fc4725ec0100000067964f279c0ff417ce8fd33d (good)
+;; QUESTION SECTION:
+;alpha66.org.			IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:13 -03 2025
+;; MSG SIZE  rcvd: 68
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.cubamemorial.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 7789
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: fec95200d9e7ce480100000067964f28a682db9272a0667f (good)
+;; QUESTION SECTION:
+;www.cubamemorial.net.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:13 -03 2025
+;; MSG SIZE  rcvd: 77
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.miscelaneasdecuba.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 60248
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 85d6ea435beb3d1e0100000067964f2848f6c70ed69abea2 (good)
+;; QUESTION SECTION:
+;www.miscelaneasdecuba.net.	IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:13 -03 2025
+;; MSG SIZE  rcvd: 82
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.miscelaneasdecuba.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 26232
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 478cf77bf4b0d7f50100000067964f28d6e8feba9392256a (good)
+;; QUESTION SECTION:
+;www.miscelaneasdecuba.net.	IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:13 -03 2025
+;; MSG SIZE  rcvd: 82
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> miscelaneasdecuba.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 23742
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 22ac74c1045309690100000067964f286226e52817f461d9 (good)
+;; QUESTION SECTION:
+;miscelaneasdecuba.net.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:13 -03 2025
+;; MSG SIZE  rcvd: 78
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> miscelaneasdecuba.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 11794
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: db6dbf22660d75c20100000067964f283d1f59a446482cc4 (good)
+;; QUESTION SECTION:
+;miscelaneasdecuba.net.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:13 -03 2025
+;; MSG SIZE  rcvd: 78
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> en-ville.orange.fr @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 1031
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 0429f96630689f0b0100000067964f283830b3fb84cbe2a5 (good)
+;; QUESTION SECTION:
+;en-ville.orange.fr.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:13 -03 2025
+;; MSG SIZE  rcvd: 75
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> example.domain.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 34710
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 08c011484ee5cbe40100000067964f2805ba09d7a15d240b (good)
+;; QUESTION SECTION:
+;example.domain.com.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:13 -03 2025
+;; MSG SIZE  rcvd: 75
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> docs.domain.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 49025
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 982cdc5c2b04b24d0100000067964f283e335dba7fe03f15 (good)
+;; QUESTION SECTION:
+;docs.domain.com.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:13 -03 2025
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> archivos.domain.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 25259
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 55c0ac90d38f529b0100000067964f28432da212efd70f1e (good)
+;; QUESTION SECTION:
+;archivos.domain.com.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:13 -03 2025
+;; MSG SIZE  rcvd: 76
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.sedem.org.gt @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 46478
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 55dd6d95daef0a640100000067964f28dd0b39045354f3a7 (good)
+;; QUESTION SECTION:
+;www.sedem.org.gt.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:13 -03 2025
+;; MSG SIZE  rcvd: 73
+
+;; communications error to 200.80.203.76#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.frmt.org @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 30886
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: daebd200c833206f0100000067964f2d37e481ff90eaa114 (good)
+;; QUESTION SECTION:
+;www.frmt.org.			IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:18 -03 2025
+;; MSG SIZE  rcvd: 69
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> extratorrent.cc @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 8181
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 01d84652bdf775810100000067964f2d24d9aff478b26c6b (good)
+;; QUESTION SECTION:
+;extratorrent.cc.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:18 -03 2025
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.serpaj.org @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 21428
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 0fa3e0db4e1907df0100000067964f2de4579dd0586ae779 (good)
+;; QUESTION SECTION:
+;www.serpaj.org.			IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:19 -03 2025
+;; MSG SIZE  rcvd: 71
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.metacafe.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 64381
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 2f6eb7671254fe8c0100000067964f2dfeec1b952dc8010e (good)
+;; QUESTION SECTION:
+;www.metacafe.com.		IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:19 -03 2025
+;; MSG SIZE  rcvd: 73
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.atimes.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 28416
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: fdb6e020b7dc78b60100000067964f2d4cbcd583c6bc6b93 (good)
+;; QUESTION SECTION:
+;www.atimes.com.			IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:19 -03 2025
+;; MSG SIZE  rcvd: 71
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.asstr.org @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 9758
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 4c0418f7325ddf070100000067964f2d0605e18e0697dcf2 (good)
+;; QUESTION SECTION:
+;www.asstr.org.			IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:19 -03 2025
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.topcities.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 31204
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 3639e162f421bd790100000067964f2d4fbe5b87ee68e1dd (good)
+;; QUESTION SECTION:
+;www.topcities.com.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:19 -03 2025
+;; MSG SIZE  rcvd: 74
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.elmundo.com.ve @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 43133
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 74802c553e9754ad0100000067964f2d815f11a1f2022fdf (good)
+;; QUESTION SECTION:
+;www.elmundo.com.ve.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:19 -03 2025
+;; MSG SIZE  rcvd: 75
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.religioustolerance.org @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 48867
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 2d7a953717b5a3010100000067964f2db2888d0d67e9ca30 (good)
+;; QUESTION SECTION:
+;www.religioustolerance.org.	IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:19 -03 2025
+;; MSG SIZE  rcvd: 83
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.wikispaces.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 54383
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 905dc6f0e450f2820100000067964f2d1cc53ac64ed2695a (good)
+;; QUESTION SECTION:
+;www.wikispaces.com.		IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:19 -03 2025
+;; MSG SIZE  rcvd: 75
+
+;; communications error to 200.80.203.76#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> check.googlezip.netconnect @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 25431
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: cf18a0370872f2aa0100000067964f32a651a29250998ad2 (good)
+;; QUESTION SECTION:
+;check.googlezip.netconnect.	IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:22 -03 2025
+;; MSG SIZE  rcvd: 83
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> check.googlezip.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 3701
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: e43f8eb70a4577040100000067964f3286004d49ad867a6a (good)
+;; QUESTION SECTION:
+;check.googlezip.net.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:22 -03 2025
+;; MSG SIZE  rcvd: 76
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> bloquedearmas.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 43053
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 88c19efe8337845f0100000067964f322493fe67601a3356 (good)
+;; QUESTION SECTION:
+;bloquedearmas.com.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:22 -03 2025
+;; MSG SIZE  rcvd: 74
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> extratorrent.cc @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 1849
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: d294dad96b0b504a0100000067964f32d5a8b842ef3b7c19 (good)
+;; QUESTION SECTION:
+;extratorrent.cc.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:22 -03 2025
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.topcities.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 43138
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 164fa221df7ce3da0100000067964f32061ecd97586fc89a (good)
+;; QUESTION SECTION:
+;www.topcities.com.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:22 -03 2025
+;; MSG SIZE  rcvd: 74
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> diariodecaracas.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 49800
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 6db96fd65066a7370100000067964f327e9b46c66cd7a684 (good)
+;; QUESTION SECTION:
+;diariodecaracas.com.		IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:22 -03 2025
+;; MSG SIZE  rcvd: 76
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> w3.ibm.comdeveloperhacktoberfest @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 36284
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: a797440a313ca3b50100000067964f32e1709b989ee1b85c (good)
+;; QUESTION SECTION:
+;w3.ibm.comdeveloperhacktoberfest. IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:22 -03 2025
+;; MSG SIZE  rcvd: 89
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> thepiratebay.se @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 11863
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: d5a7216cbff597b80100000067964f328f0313aa522edd39 (good)
+;; QUESTION SECTION:
+;thepiratebay.se.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:22 -03 2025
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.fgmnetwork.org @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 20877
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 0139ac1eb72320d20100000067964f3214670b24575dbcc9 (good)
+;; QUESTION SECTION:
+;www.fgmnetwork.org.		IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:22 -03 2025
+;; MSG SIZE  rcvd: 75
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.kazaa.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 43276
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 047daab9354a447e0100000067964f32561e9fb5f730ea1b (good)
+;; QUESTION SECTION:
+;www.kazaa.com.			IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:22 -03 2025
+;; MSG SIZE  rcvd: 70
+
+;; communications error to 200.80.203.76#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> shareaza.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 62786
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: beab4f5f745119ab0100000067964f3781da261a6a9d83c5 (good)
+;; QUESTION SECTION:
+;shareaza.com.			IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:27 -03 2025
+;; MSG SIZE  rcvd: 69
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.malware.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 21211
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: c94ff51f03928e4b0100000067964f37bfe3ae5e17e61882 (good)
+;; QUESTION SECTION:
+;www.malware.com.		IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:27 -03 2025
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> use-application-dns.net @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 10128
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 8b2dc266e9a256100100000067964f370af09d159bc964d2 (good)
+;; QUESTION SECTION:
+;use-application-dns.net.	IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:27 -03 2025
+;; MSG SIZE  rcvd: 80
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.diariouno.net.ar @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 29148
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 62a3d8ab442822e60100000067964f3770eccdd383891c20 (good)
+;; QUESTION SECTION:
+;www.diariouno.net.ar.		IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:27 -03 2025
+;; MSG SIZE  rcvd: 77
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> premiumhentaiclub.co @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 30610
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 16279a7c72d280320100000067964f379f4f61cb4e8e54a6 (good)
+;; QUESTION SECTION:
+;premiumhentaiclub.co.		IN	A
+
+;; Query time: 54 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:27 -03 2025
+;; MSG SIZE  rcvd: 77
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.mapuchenative.com @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 57319
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 67418790d6f68b160100000067964f37c121243b473ace88 (good)
+;; QUESTION SECTION:
+;www.mapuchenative.com.		IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:27 -03 2025
+;; MSG SIZE  rcvd: 78
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.diarioextra.com.ar @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 61288
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: d6d63193ba6e28400100000067964f371d2487a39e971d08 (good)
+;; QUESTION SECTION:
+;www.diarioextra.com.ar.		IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:27 -03 2025
+;; MSG SIZE  rcvd: 79
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> clarin.com.ar @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 49512
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 3e259cb4dea5cfda0100000067964f375a93b00a2b956f38 (good)
+;; QUESTION SECTION:
+;clarin.com.ar.			IN	A
+
+;; Query time: 21 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:27 -03 2025
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.serpaj.org @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 43138
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: d6000105dc1cea400100000067964f3768f17d2c9e5f8d78 (good)
+;; QUESTION SECTION:
+;www.serpaj.org.			IN	A
+
+;; Query time: 43 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:28 -03 2025
+;; MSG SIZE  rcvd: 71
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.diarioaccion.com.ar @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 2204
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: f669e88471bd66c20100000067964f379b68e61209dd04a3 (good)
+;; QUESTION SECTION:
+;www.diarioaccion.com.ar.	IN	A
+
+;; Query time: 10 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:28 -03 2025
+;; MSG SIZE  rcvd: 80
+
+;; communications error to 200.80.203.76#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.agendadelasmujeres.com.ar @200.80.203.76
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 46702
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1232
+; COOKIE: 313bbe843f6b561c0100000067964f3cd449df6bc7674b6c (good)
+;; QUESTION SECTION:
+;www.agendadelasmujeres.com.ar.	IN	A
+
+;; Query time: 32 msec
+;; SERVER: 200.80.203.76#53(200.80.203.76) (UDP)
+;; WHEN: Sun Jan 26 12:05:33 -03 2025
+;; MSG SIZE  rcvd: 86
+

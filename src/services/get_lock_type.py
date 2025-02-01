@@ -18,11 +18,6 @@ def get_lock_type(query: Query, measurement_uid: str, output_directory: str, mod
         control = test_keys.get("control", {})
         http_request = control.get("http_request", {})
 
-        tcp_connect = test_keys.get("tcp_connect", [])
-        tcp_connect_info = None
-        if tcp_connect:
-            tcp_connect_info = tcp_connect[0] 
-
         row = {
             "measurement_uid": measurement_uid or "None",
             "input": data.get("input", "None"),
@@ -32,9 +27,7 @@ def get_lock_type(query: Query, measurement_uid: str, output_directory: str, mod
             "accessible": test_keys.get("accessible", "None"),
             "resolver_asn": data.get("resolver_asn", "None"),
             "resolver_ip": data.get("resolver_ip", "None"),
-            "status_code": http_request.get("status_code", "None"),
-            "tcp_ip": tcp_connect_info.get("ip", "None") if tcp_connect_info else "None",
-            "tcp_status": tcp_connect_info.get("status", "None") if tcp_connect_info else "None"
+            "status_code": http_request.get("status_code", "None")
         }
         
         for key, value in row.items():

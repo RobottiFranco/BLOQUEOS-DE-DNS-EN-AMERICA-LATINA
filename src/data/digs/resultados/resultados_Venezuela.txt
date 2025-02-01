@@ -1,0 +1,985 @@
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> vocesenlibertad.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> caminic.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.radiomaria.org.ni @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> asodenic.org.ni @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> grupovenancia.org @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.allactionhost.comes-niweb-hosting @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> apen.org.ni @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> puntos.org.ni @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> bogus.d2a8n1.rootcanary.net @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> icq.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> alpha66.org @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.alpha66.org @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.alpha66.org @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.abelsierramadero.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.consensocubano.org @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> https:9truth.org @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> alpha66.org @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.cubamemorial.net @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.miscelaneasdecuba.net @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.miscelaneasdecuba.net @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> miscelaneasdecuba.net @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> miscelaneasdecuba.net @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> en-ville.orange.fr @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> example.domain.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> docs.domain.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> archivos.domain.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.sedem.org.gt @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.frmt.org @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> extratorrent.cc @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.serpaj.org @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.metacafe.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.atimes.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.asstr.org @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> bitcoin.sipa.be @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.topcities.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.elmundo.com.ve @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.religioustolerance.org @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.wikispaces.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> check.googlezip.net @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23007
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;check.googlezip.net.		IN	A
+
+;; Query time: 2540 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:23:29 -03 2025
+;; MSG SIZE  rcvd: 37
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> check.googlezip.net @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16586
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;check.googlezip.net.		IN	A
+
+;; Query time: 165 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:23:29 -03 2025
+;; MSG SIZE  rcvd: 37
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> bloquedearmas.com @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22632
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;bloquedearmas.com.		IN	A
+
+;; Query time: 165 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:23:29 -03 2025
+;; MSG SIZE  rcvd: 35
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> extratorrent.cc @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63262
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;extratorrent.cc.		IN	A
+
+;; Query time: 450 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:23:30 -03 2025
+;; MSG SIZE  rcvd: 33
+
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.topcities.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> rates.airtm.io @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 48223
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;rates.airtm.io.			IN	A
+
+;; Query time: 208 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:23:42 -03 2025
+;; MSG SIZE  rcvd: 32
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> diariodecaracas.com @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52353
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;diariodecaracas.com.		IN	A
+
+;; Query time: 318 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:23:43 -03 2025
+;; MSG SIZE  rcvd: 37
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> w3.ibm.com @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57308
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;w3.ibm.com.			IN	A
+
+;; Query time: 231 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:23:43 -03 2025
+;; MSG SIZE  rcvd: 28
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.patria.org.ve @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26309
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.patria.org.ve.		IN	A
+
+;; ANSWER SECTION:
+www.patria.org.ve.	485	IN	A	201.249.163.13
+
+;; Query time: 329 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:23:43 -03 2025
+;; MSG SIZE  rcvd: 51
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> thepiratebay.se @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23054
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;thepiratebay.se.		IN	A
+
+;; Query time: 582 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:23:44 -03 2025
+;; MSG SIZE  rcvd: 33
+
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.fgmnetwork.org @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.kazaa.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> shareaza.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.malware.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> use-application-dns.net @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1010
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;use-application-dns.net.	IN	A
+
+;; ANSWER SECTION:
+use-application-dns.net. 120	IN	A	35.190.14.201
+
+;; Query time: 560 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:24:40 -03 2025
+;; MSG SIZE  rcvd: 57
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.diariouno.net.ar @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30541
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.diariouno.net.ar.		IN	A
+
+;; ANSWER SECTION:
+www.diariouno.net.ar.	300	IN	CNAME	balancers.cloud.americadigital.com.ar.
+
+;; Query time: 1209 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:24:41 -03 2025
+;; MSG SIZE  rcvd: 87
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> premiumhentaiclub.co @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25310
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;premiumhentaiclub.co.		IN	A
+
+;; Query time: 549 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:24:42 -03 2025
+;; MSG SIZE  rcvd: 38
+
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.mapuchenative.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> tamtam.chat @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28998
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;tamtam.chat.			IN	A
+
+;; ANSWER SECTION:
+tamtam.chat.		300	IN	A	185.16.148.2
+tamtam.chat.		300	IN	A	185.16.148.66
+tamtam.chat.		300	IN	A	185.16.148.34
+
+;; Query time: 363 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:24:57 -03 2025
+;; MSG SIZE  rcvd: 77
+
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.diarioextra.com.ar @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> clarin.com.ar @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63560
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;clarin.com.ar.			IN	A
+
+;; Query time: 185 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:25:10 -03 2025
+;; MSG SIZE  rcvd: 31
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> mail.ru @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1865
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;mail.ru.			IN	A
+
+;; ANSWER SECTION:
+mail.ru.		26	IN	A	217.69.139.200
+mail.ru.		26	IN	A	94.100.180.201
+mail.ru.		26	IN	A	217.69.139.202
+mail.ru.		26	IN	A	94.100.180.200
+
+;; Query time: 512 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:25:10 -03 2025
+;; MSG SIZE  rcvd: 89
+
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.serpaj.org @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.diarioaccion.com.ar @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.agendadelasmujeres.com.ar @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 35472
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.agendadelasmujeres.com.ar.	IN	A
+
+;; Query time: 162 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:25:38 -03 2025
+;; MSG SIZE  rcvd: 47
+
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.cencoex.gob.ve @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> pwchyt.awsvpni.com @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14189
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;pwchyt.awsvpni.com.		IN	A
+
+;; Query time: 329 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:25:53 -03 2025
+;; MSG SIZE  rcvd: 36
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> mariacorinamundo.com @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25711
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;mariacorinamundo.com.		IN	A
+
+;; Query time: 296 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:25:54 -03 2025
+;; MSG SIZE  rcvd: 38
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> comanditos.com @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8051
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;comanditos.com.			IN	A
+
+;; Query time: 286 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:25:54 -03 2025
+;; MSG SIZE  rcvd: 32
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> notiviasve.com @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60123
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;notiviasve.com.			IN	A
+
+;; Query time: 351 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:25:54 -03 2025
+;; MSG SIZE  rcvd: 32
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> ooni.cloudflare-dns.comdns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 48737
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ooni.cloudflare-dns.comdns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB. IN A
+
+;; Query time: 231 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:25:54 -03 2025
+;; MSG SIZE  rcvd: 99
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> cantv.net @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 41837
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;cantv.net.			IN	A
+
+;; Query time: 197 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:25:55 -03 2025
+;; MSG SIZE  rcvd: 27
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> cloudapp.net @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11064
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;cloudapp.net.			IN	A
+
+;; Query time: 253 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:25:55 -03 2025
+;; MSG SIZE  rcvd: 30
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> blob.core.windows.net @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5586
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;blob.core.windows.net.		IN	A
+
+;; Query time: 417 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:25:55 -03 2025
+;; MSG SIZE  rcvd: 39
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> azurewebsites.net @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57799
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;azurewebsites.net.		IN	A
+
+;; Query time: 396 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:25:56 -03 2025
+;; MSG SIZE  rcvd: 35
+
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> pelisplus.me @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> vamosganar.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.mariacorinapresidente.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> cdninstagram.com @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36417
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;cdninstagram.com.		IN	A
+
+;; Query time: 186 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:26:36 -03 2025
+;; MSG SIZE  rcvd: 34
+
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.cne.gob.ve @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> surbitcoin.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.teenhealthfx.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> partidounnuevotiempo.org @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.match.com @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24159
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.match.com.			IN	A
+
+;; ANSWER SECTION:
+www.match.com.		30	IN	CNAME	match.com.ve.
+match.com.ve.		18	IN	A	208.83.242.43
+
+;; Query time: 0 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:27:32 -03 2025
+;; MSG SIZE  rcvd: 73
+
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> primariaexteriorve.com @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46936
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;primariaexteriorve.com.		IN	A
+
+;; Query time: 275 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:27:37 -03 2025
+;; MSG SIZE  rcvd: 40
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> primariaexteriorve.com @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45814
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;primariaexteriorve.com.		IN	A
+
+;; Query time: 164 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:27:37 -03 2025
+;; MSG SIZE  rcvd: 40
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> use-application-dns.net @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 35466
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;use-application-dns.net.	IN	A
+
+;; ANSWER SECTION:
+use-application-dns.net. 120	IN	A	35.190.14.201
+
+;; Query time: 241 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:27:37 -03 2025
+;; MSG SIZE  rcvd: 57
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> d3l0kqj5h9z9zs.cloudfront.net @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36451
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;d3l0kqj5h9z9zs.cloudfront.net.	IN	A
+
+;; Query time: 186 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:27:38 -03 2025
+;; MSG SIZE  rcvd: 47
+
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.museomarino.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.shadowbet.com @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 4716
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.shadowbet.com.		IN	A
+
+;; Query time: 253 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:27:53 -03 2025
+;; MSG SIZE  rcvd: 35
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> tvhd.pe @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24693
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;tvhd.pe.			IN	A
+
+;; Query time: 220 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:27:53 -03 2025
+;; MSG SIZE  rcvd: 25
+
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.ragingbullcampaign.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.ragingbullcampaign.com @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.appzplanet.com @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12819
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.appzplanet.com.		IN	A
+
+;; ANSWER SECTION:
+www.appzplanet.com.	600	IN	A	37.48.65.145
+
+;; Query time: 351 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:28:21 -03 2025
+;; MSG SIZE  rcvd: 52
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.lgbtimontevideo206.org @200.35.79.41
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 16642
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.lgbtimontevideo206.org.	IN	A
+
+;; Query time: 483 msec
+;; SERVER: 200.35.79.41#53(200.35.79.41) (UDP)
+;; WHEN: Sun Jan 26 14:28:22 -03 2025
+;; MSG SIZE  rcvd: 44
+
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+;; communications error to 200.35.79.41#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.mnr.gov.cn @200.35.79.41
+;; global options: +cmd
+;; no servers could be reached
