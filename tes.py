@@ -11,27 +11,40 @@ def parse_dig_output(dig_file, output_csv):
     domain = None
     resolver = None
     status = None
-    
+
     for line in lines:
+        # Extraer dominio
         if "<<>> DiG" in line:
             match = re.search(r"<<>> DiG.*?<<>>\s+(\S+)", line)
             if match:
                 domain = match.group(1).strip().rstrip(".")
-        
-        elif "@" in line:
-            match = re.search(r"@(\d+\.\d+\.\d+\.\d+)", line)
+
+        # Extraer el resolvedor (servidor DNS)
+        if "SERVER:" in line:
+            match = re.search(r"SERVER:\s*([\d.]+)", line)
             if match:
                 resolver = match.group(1).strip()
 
-        elif "status:" in line:
+        elif "@" in line:
+            match = re.search(r"@([\d.]+)", line)
+            if match:
+                resolver = match.group(1).strip()
+
+        # Extraer estado de la respuesta
+        if "status:" in line:
             match = re.search(r"status:\s+(\S+)", line)
             if match:
                 status = match.group(1).strip()
         
+        # Manejar errores de comunicación como "timed out"
+        if "communications error" in line:
+            status = "TIMEOUT"
+        
         if domain and resolver and status:
             results.append([domain, resolver, status])
-            domain, resolver, status = None, None, None
-    
+            domain, resolver, status = None, None, None  # Reset para el siguiente
+
+    # Guardar resultados en CSV
     with open(output_csv, "w", encoding="utf-8", newline="") as file:
         writer = csv.writer(file)
         writer.writerow(["dominio", "resolvedor", "status"])
