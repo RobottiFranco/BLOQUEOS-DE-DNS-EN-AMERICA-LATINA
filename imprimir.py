@@ -1,4 +1,4 @@
-from imprimirConsum import graficoBloqueo
+from src.logic.imprimirConsum import graficoBloqueo
 
 
 archivos_uy = [ "src/data/comparative/200.58.141.25.csv",
