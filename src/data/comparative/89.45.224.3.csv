@@ -1,28 +1,28 @@
-measurement_uid,input,dns_experiment_failure,http_experiment_failure,dns_consistency,accessible,resolver_asn,resolver_ip,status_code,tcp_ip,tcp_status
-20250109232253.257609_US_webconnectivity_5e7901706c628929,http://www.uscg.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,
-20250109223317.386040_US_webconnectivity_238e0299a8bb639e,http://www.usafa.af.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,403,,
-20250109212623.882655_US_webconnectivity_5ff2b11fd5f179be,https://www.jsf.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,
-20250109212555.296883_US_webconnectivity_019065c44c590dd9,http://www.navy.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,
-20250109212537.510540_US_webconnectivity_16c95f23c26d4e80,http://www.socom.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,
-20250109205836.587478_US_webconnectivity_4d6eec25b8e48b23,https://www.af.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,403,,
-20250109205749.157455_US_webconnectivity_9828650e940caac1,http://www.centcom.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,
-20250109205540.399486_US_webconnectivity_0f3294d68c8abd75,https://www.army.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,
-20250109202906.448481_US_webconnectivity_012c8e9121946243,https://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,
-20250109193622.677572_US_webconnectivity_4ca273431e1430ae,http://www.museomarino.com/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,403,,
-20250109192311.687813_US_webconnectivity_3319859b6cd44380,http://acacias.org.ve/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,
-20250109174239.040757_US_webconnectivity_7fd5397d08a9c91d,http://www.southcom.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,
-20250109144720.212933_US_webconnectivity_c4f7118b94b8180e,http://www.shadowbet.com,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,
-20250109141608.505100_US_webconnectivity_71999f4d8af3244c,https://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,
-20250109141417.525953_US_webconnectivity_8a0abe94a050389c,http://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,
-20250109133610.175528_US_webconnectivity_f210ad2d100b7e3d,http://www.mnr.gov.cn/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,
-20250109133001.482952_US_webconnectivity_1e3495ee13cea12c,http://www.jsf.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,
-20250109132559.578275_US_webconnectivity_82bb3322404c884a,http://www.stratcom.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,
-20250110064146.547709_US_webconnectivity_85eddb58783b3914,https://root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,
-20250110064144.302830_US_webconnectivity_29e6511cbe5d42fe,https://root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,
-20250110064041.317775_US_webconnectivity_5a6765f299bfc54c,https://bogus.d2a8n1.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,
-20250110032747.670846_US_webconnectivity_ec0e13d268dfcb43,https://rates.airtm.io,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,
-20250110031720.783444_US_webconnectivity_b4dfc8c23c9d711b,http://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,
-20250110015546.613963_US_webconnectivity_1ae1df47380f85ec,https://www.darpa.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,
-20250110015530.952198_US_webconnectivity_8d5014e6a641a891,http://www.pacom.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,
-20250110015045.368435_US_webconnectivity_df6dbaed68377410,http://www.quantico.marines.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,
-20250110014941.535187_US_webconnectivity_983be0d3d5473180,https://www.dia.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,
+measurement_uid,input,dns_experiment_failure,http_experiment_failure,dns_consistency,accessible,resolver_asn,resolver_ip,status_code,tcp_ip,tcp_status,category
+20250109232253.257609_US_webconnectivity_5e7901706c628929,http://www.uscg.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,,"MILX, GOVT"
+20250109223317.386040_US_webconnectivity_238e0299a8bb639e,http://www.usafa.af.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,403,,,"MILX, GOVT"
+20250109212623.882655_US_webconnectivity_5ff2b11fd5f179be,https://www.jsf.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,,"MILX, GOVT"
+20250109212555.296883_US_webconnectivity_019065c44c590dd9,http://www.navy.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,,"MILX, GOVT"
+20250109212537.510540_US_webconnectivity_16c95f23c26d4e80,http://www.socom.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,,"MILX, GOVT"
+20250109205836.587478_US_webconnectivity_4d6eec25b8e48b23,https://www.af.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,403,,,"MILX, GOVT"
+20250109205749.157455_US_webconnectivity_9828650e940caac1,http://www.centcom.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,,"MILX, GOVT"
+20250109205540.399486_US_webconnectivity_0f3294d68c8abd75,https://www.army.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,,"MILX, GOVT"
+20250109202906.448481_US_webconnectivity_012c8e9121946243,https://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,,OTHER
+20250109193622.677572_US_webconnectivity_4ca273431e1430ae,http://www.museomarino.com/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,403,,,OTHER
+20250109192311.687813_US_webconnectivity_3319859b6cd44380,http://acacias.org.ve/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,,OTHER
+20250109174239.040757_US_webconnectivity_7fd5397d08a9c91d,http://www.southcom.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,,"MILX, GOVT"
+20250109144720.212933_US_webconnectivity_c4f7118b94b8180e,http://www.shadowbet.com,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,,GMB
+20250109141608.505100_US_webconnectivity_71999f4d8af3244c,https://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,,OTHER
+20250109141417.525953_US_webconnectivity_8a0abe94a050389c,http://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,,OTHER
+20250109133610.175528_US_webconnectivity_f210ad2d100b7e3d,http://www.mnr.gov.cn/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,,GOVT
+20250109133001.482952_US_webconnectivity_1e3495ee13cea12c,http://www.jsf.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,,"MILX, GOVT"
+20250109132559.578275_US_webconnectivity_82bb3322404c884a,http://www.stratcom.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,,"MILX, GOVT"
+20250110064146.547709_US_webconnectivity_85eddb58783b3914,https://root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,,OTHER
+20250110064144.302830_US_webconnectivity_29e6511cbe5d42fe,https://root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,,OTHER
+20250110064041.317775_US_webconnectivity_5a6765f299bfc54c,https://bogus.d2a8n1.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,,OTHER
+20250110032747.670846_US_webconnectivity_ec0e13d268dfcb43,https://rates.airtm.io,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,-1,,,OTHER
+20250110031720.783444_US_webconnectivity_b4dfc8c23c9d711b,http://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,,OTHER
+20250110015546.613963_US_webconnectivity_1ae1df47380f85ec,https://www.darpa.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,,"MILX, GOVT"
+20250110015530.952198_US_webconnectivity_8d5014e6a641a891,http://www.pacom.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,,"MILX, GOVT"
+20250110015045.368435_US_webconnectivity_df6dbaed68377410,http://www.quantico.marines.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,,"MILX, GOVT"
+20250110014941.535187_US_webconnectivity_983be0d3d5473180,https://www.dia.mil/,android_dns_cache_no_data,,inconsistent,False,AS9009,89.45.224.3,200,,,"MILX, GOVT"
