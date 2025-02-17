@@ -1,0 +1,111 @@
+www.uscg.mil.edgekey.net.
+e14442.dscb.akamaiedge.net.
+23.44.89.86
+www.afpw.af.mil.edgekey.net.
+e11218.dscb.akamaiedge.net.
+23.15.56.150
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+www.gslb.cne.gob.ve.
+209.22.51.14
+209.22.51.13
+www.navy.mil.edgekey.net.
+e16312.dscb.akamaiedge.net.
+23.205.134.207
+52.61.157.137
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> surbitcoin.com @190.86.205.194 +short
+;; global options: +cmd
+;; no servers could be reached
+www.afpw.af.mil.edgekey.net.
+e11218.dscb.akamaiedge.net.
+23.15.56.150
+www.centcom.mil.edgekey.net.
+e194506.dsca.akamaiedge.net.
+23.221.214.145
+23.221.214.141
+www.army.mil.edgekey.net.
+e91447.dscb.akamaiedge.net.
+23.39.223.132
+23.39.223.151
+35.190.14.201
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.museomarino.com @190.86.205.194 +short
+;; global options: +cmd
+;; no servers could be reached
+201.46.120.50
+www.dodpw.defense.gov.edgekey.net.
+e80948.dscb.akamaiedge.net.
+23.39.223.139
+23.39.223.142
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+209.22.51.13
+209.22.51.14
+www.dodpw.defense.gov.edgekey.net.
+e80948.dscb.akamaiedge.net.
+23.39.223.139
+23.39.223.142
+;; communications error to 190.86.205.194#53: timed out
+145.97.20.20
+145.97.20.20
+145.97.20.20
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.abelsierramadero.com @190.86.205.194 +short
+;; global options: +cmd
+;; no servers could be reached
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+wikispaces.com.
+;; communications error to 190.86.205.194#53: timed out
+3.166.160.68
+3.166.160.50
+3.166.160.118
+3.166.160.31
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+35.190.14.201
+balancers.cloud.americadigital.com.ar.
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+;; communications error to 190.86.205.194#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.mapuchenative.com @190.86.205.194 +short
+;; global options: +cmd
+;; no servers could be reached
+d26mygjczu68zh.cloudfront.net.
+18.64.174.113
+18.64.174.43
+18.64.174.122
+18.64.174.22
+www.dodpw.defense.gov.edgekey.net.
+e80948.dscb.akamaiedge.net.
+23.221.214.154
+23.221.214.168
+www.mcpw2.marines.mil.edgekey.net.
+e15090.dscb.akamaiedge.net.
+23.205.133.64
+www.dodpw.defense.gov.edgekey.net.
+e80948.dscb.akamaiedge.net.
+23.221.214.168
+23.221.214.154

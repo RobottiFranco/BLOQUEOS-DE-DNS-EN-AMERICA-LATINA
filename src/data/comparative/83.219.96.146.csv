@@ -1,6 +1,0 @@
-measurement_uid,input,dns_experiment_failure,http_experiment_failure,dns_consistency,accessible,resolver_asn,resolver_ip,status_code,tcp_ip,tcp_status
-20250108173238.223138_JM_webconnectivity_38960d750166b63c,http://www.match.com/,,eof_error,inconsistent,False,AS137409,83.219.96.146,200,208.83.242.49,"{'blocked': False, 'failure': None, 'success': True}"
-20250108145236.032294_JM_webconnectivity_b159c382e4d9c986,https://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.146,-1,,
-20250108145100.488116_JM_webconnectivity_7aa968216bfb90bf,http://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.146,-1,,
-20250108143609.445424_JM_webconnectivity_9ed1ec61d87f58ee,http://www.bicommunitynews.co.uk/,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.146,200,,
-20250108143235.167176_JM_webconnectivity_31a1ca83fb993a1f,http://www.mnr.gov.cn/,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.146,-1,,
