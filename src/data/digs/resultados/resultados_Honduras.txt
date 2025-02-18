@@ -1,0 +1,1374 @@
+;; communications error to 164.163.74.82#53: timed out
+;; communications error to 164.163.74.82#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> vocesenlibertad.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 7036
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;vocesenlibertad.com.		IN	A
+
+;; Query time: 1018 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:43:54 -03 2025
+;; MSG SIZE  rcvd: 37
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> caminic.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47544
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;caminic.com.			IN	A
+
+;; Query time: 639 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:43:54 -03 2025
+;; MSG SIZE  rcvd: 29
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.radiomaria.org.ni @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 39334
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.radiomaria.org.ni.		IN	A
+
+;; Query time: 1137 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:43:55 -03 2025
+;; MSG SIZE  rcvd: 39
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> asodenic.org.ni @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 53141
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;asodenic.org.ni.		IN	A
+
+;; Query time: 1375 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:43:57 -03 2025
+;; MSG SIZE  rcvd: 33
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> grupovenancia.org @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 37829
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;grupovenancia.org.		IN	A
+
+;; Query time: 1570 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:43:58 -03 2025
+;; MSG SIZE  rcvd: 35
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.allactionhost.com/es-ni/web-hosting @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 61143
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.allactionhost.com/es-ni/web-hosting. IN A
+
+;; Query time: 213 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:43:59 -03 2025
+;; MSG SIZE  rcvd: 57
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> apen.org.ni @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 13300
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;apen.org.ni.			IN	A
+
+;; Query time: 306 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:43:59 -03 2025
+;; MSG SIZE  rcvd: 29
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> puntos.org.ni @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22796
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;puntos.org.ni.			IN	A
+
+;; Query time: 358 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:43:59 -03 2025
+;; MSG SIZE  rcvd: 31
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 39737
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net. IN	A
+
+;; ANSWER SECTION:
+root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net. 60	IN A 145.97.20.20
+
+;; Query time: 633 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:00 -03 2025
+;; MSG SIZE  rcvd: 85
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62566
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net. IN A
+
+;; ANSWER SECTION:
+root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net. 60 IN A 145.97.20.20
+
+;; Query time: 643 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:01 -03 2025
+;; MSG SIZE  rcvd: 86
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> bogus.d2a8n1.rootcanary.net @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 37704
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;bogus.d2a8n1.rootcanary.net.	IN	A
+
+;; Query time: 1952 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:03 -03 2025
+;; MSG SIZE  rcvd: 45
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> alpha66.org @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 64218
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;alpha66.org.			IN	A
+
+;; Query time: 2153 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:05 -03 2025
+;; MSG SIZE  rcvd: 29
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.alpha66.org @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 40497
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.alpha66.org.		IN	A
+
+;; Query time: 1435 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:06 -03 2025
+;; MSG SIZE  rcvd: 33
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.alpha66.org @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 8540
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.alpha66.org.		IN	A
+
+;; Query time: 1575 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:08 -03 2025
+;; MSG SIZE  rcvd: 33
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.abelsierramadero.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 34861
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.abelsierramadero.com.	IN	A
+
+;; ANSWER SECTION:
+www.abelsierramadero.com. 1800	IN	A	199.15.163.139
+
+;; Query time: 2491 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:10 -03 2025
+;; MSG SIZE  rcvd: 58
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.consensocubano.org @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 28370
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.consensocubano.org.		IN	A
+
+;; Query time: 1029 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:11 -03 2025
+;; MSG SIZE  rcvd: 40
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.es-us.noticias.yahoo.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 18962
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.es-us.noticias.yahoo.com.	IN	A
+
+;; Query time: 574 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:12 -03 2025
+;; MSG SIZE  rcvd: 46
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> https:911truth.org @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 44309
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;https:911truth.org.		IN	A
+
+;; Query time: 400 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:12 -03 2025
+;; MSG SIZE  rcvd: 36
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> alpha66.org @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 15665
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;alpha66.org.			IN	A
+
+;; Query time: 2242 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:15 -03 2025
+;; MSG SIZE  rcvd: 29
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.cubamemorial.net @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 34653
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.cubamemorial.net.		IN	A
+
+;; Query time: 1159 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:16 -03 2025
+;; MSG SIZE  rcvd: 38
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.miscelaneasdecuba.net @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1137
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.miscelaneasdecuba.net.	IN	A
+
+;; Query time: 476 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:16 -03 2025
+;; MSG SIZE  rcvd: 43
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.miscelaneasdecuba.net @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15439
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.miscelaneasdecuba.net.	IN	A
+
+;; Query time: 509 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:17 -03 2025
+;; MSG SIZE  rcvd: 43
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> miscelaneasdecuba.net @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8386
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;miscelaneasdecuba.net.		IN	A
+
+;; Query time: 389 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:17 -03 2025
+;; MSG SIZE  rcvd: 39
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> miscelaneasdecuba.net @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11902
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;miscelaneasdecuba.net.		IN	A
+
+;; Query time: 487 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:18 -03 2025
+;; MSG SIZE  rcvd: 39
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> en-ville.orange.fr @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51127
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;en-ville.orange.fr.		IN	A
+
+;; Query time: 433 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:18 -03 2025
+;; MSG SIZE  rcvd: 36
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> example.domain.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12311
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;example.domain.com.		IN	A
+
+;; Query time: 335 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:18 -03 2025
+;; MSG SIZE  rcvd: 36
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> docs.domain.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17868
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;docs.domain.com.		IN	A
+
+;; Query time: 368 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:19 -03 2025
+;; MSG SIZE  rcvd: 33
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> archivos.domain.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6743
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;archivos.domain.com.		IN	A
+
+;; Query time: 444 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:19 -03 2025
+;; MSG SIZE  rcvd: 37
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.sedem.org.gt @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 53243
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.sedem.org.gt.		IN	A
+
+;; Query time: 1754 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:21 -03 2025
+;; MSG SIZE  rcvd: 34
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.frmt.org @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 56572
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.frmt.org.			IN	A
+
+;; Query time: 1603 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:23 -03 2025
+;; MSG SIZE  rcvd: 30
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> extratorrent.cc @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 13725
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;extratorrent.cc.		IN	A
+
+;; Query time: 357 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:23 -03 2025
+;; MSG SIZE  rcvd: 33
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.serpaj.org @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 62397
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.serpaj.org.			IN	A
+
+;; Query time: 1061 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:24 -03 2025
+;; MSG SIZE  rcvd: 32
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.metacafe.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 1005
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.metacafe.com.		IN	A
+
+;; Query time: 0 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:23 -03 2025
+;; MSG SIZE  rcvd: 34
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.atimes.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 62820
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.atimes.com.			IN	A
+
+;; Query time: 830 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:24 -03 2025
+;; MSG SIZE  rcvd: 32
+
+;; communications error to 164.163.74.82#53: timed out
+;; communications error to 164.163.74.82#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.asstr.org @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 31212
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.asstr.org.			IN	A
+
+;; Query time: 801 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:34 -03 2025
+;; MSG SIZE  rcvd: 31
+
+;; communications error to 164.163.74.82#53: timed out
+;; communications error to 164.163.74.82#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.topcities.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 10454
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.topcities.com.		IN	A
+
+;; Query time: 649 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:46 -03 2025
+;; MSG SIZE  rcvd: 35
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.elmundo.com.ve @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 16479
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.elmundo.com.ve.		IN	A
+
+;; Query time: 1809 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:47 -03 2025
+;; MSG SIZE  rcvd: 36
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.religioustolerance.org @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 1905
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.religioustolerance.org.	IN	A
+
+;; Query time: 1289 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:49 -03 2025
+;; MSG SIZE  rcvd: 44
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.wikispaces.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1080
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.wikispaces.com.		IN	A
+
+;; ANSWER SECTION:
+www.wikispaces.com.	300	IN	CNAME	wikispaces.com.
+
+;; Query time: 292 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:49 -03 2025
+;; MSG SIZE  rcvd: 50
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> check.googlezip.net/connect @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 61498
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;check.googlezip.net/connect.	IN	A
+
+;; Query time: 205 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:49 -03 2025
+;; MSG SIZE  rcvd: 45
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> check.googlezip.net @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23842
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;check.googlezip.net.		IN	A
+
+;; Query time: 216 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:49 -03 2025
+;; MSG SIZE  rcvd: 37
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> bloquedearmas.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6890
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;bloquedearmas.com.		IN	A
+
+;; Query time: 259 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:50 -03 2025
+;; MSG SIZE  rcvd: 35
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> extratorrent.cc @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 9759
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;extratorrent.cc.		IN	A
+
+;; Query time: 227 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:50 -03 2025
+;; MSG SIZE  rcvd: 33
+
+;; communications error to 164.163.74.82#53: timed out
+;; communications error to 164.163.74.82#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.topcities.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 2752
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.topcities.com.		IN	A
+
+;; Query time: 390 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:59 -03 2025
+;; MSG SIZE  rcvd: 35
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> rates.airtm.io @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 34979
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;rates.airtm.io.			IN	A
+
+;; ANSWER SECTION:
+rates.airtm.io.		60	IN	A	3.166.160.118
+rates.airtm.io.		60	IN	A	3.166.160.50
+rates.airtm.io.		60	IN	A	3.166.160.31
+rates.airtm.io.		60	IN	A	3.166.160.68
+
+;; Query time: 269 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:59 -03 2025
+;; MSG SIZE  rcvd: 96
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> w3.ibm.com/developer/hacktoberfest @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 38127
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;w3.ibm.com/developer/hacktoberfest. IN	A
+
+;; Query time: 213 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:59 -03 2025
+;; MSG SIZE  rcvd: 52
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> thepiratebay.se @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40273
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;thepiratebay.se.		IN	A
+
+;; Query time: 223 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:44:59 -03 2025
+;; MSG SIZE  rcvd: 33
+
+;; communications error to 164.163.74.82#53: timed out
+;; communications error to 164.163.74.82#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.fgmnetwork.org @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 47483
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.fgmnetwork.org.		IN	A
+
+;; Query time: 899 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:10 -03 2025
+;; MSG SIZE  rcvd: 36
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.kazaa.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 46825
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.kazaa.com.			IN	A
+
+;; Query time: 769 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:11 -03 2025
+;; MSG SIZE  rcvd: 31
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> shareaza.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 6136
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;shareaza.com.			IN	A
+
+;; Query time: 1397 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:12 -03 2025
+;; MSG SIZE  rcvd: 30
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.malware.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 12484
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.malware.com.		IN	A
+
+;; Query time: 1191 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:14 -03 2025
+;; MSG SIZE  rcvd: 33
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> use-application-dns.net @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27443
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;use-application-dns.net.	IN	A
+
+;; ANSWER SECTION:
+use-application-dns.net. 85	IN	A	35.190.14.201
+
+;; Query time: 270 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:14 -03 2025
+;; MSG SIZE  rcvd: 57
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.diariouno.net.ar @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29960
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.diariouno.net.ar.		IN	A
+
+;; ANSWER SECTION:
+www.diariouno.net.ar.	300	IN	CNAME	balancers.cloud.americadigital.com.ar.
+
+;; Query time: 389 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:14 -03 2025
+;; MSG SIZE  rcvd: 87
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> premiumhentaiclub.co @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51908
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;premiumhentaiclub.co.		IN	A
+
+;; Query time: 303 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:15 -03 2025
+;; MSG SIZE  rcvd: 38
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.mapuchenative.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 11875
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.mapuchenative.com.		IN	A
+
+;; Query time: 1213 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:16 -03 2025
+;; MSG SIZE  rcvd: 39
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.diarioextra.com.ar @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 33907
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.diarioextra.com.ar.		IN	A
+
+;; Query time: 1354 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:17 -03 2025
+;; MSG SIZE  rcvd: 40
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> clarin.com.ar @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46840
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;clarin.com.ar.			IN	A
+
+;; Query time: 260 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:18 -03 2025
+;; MSG SIZE  rcvd: 31
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.serpaj.org @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 60173
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.serpaj.org.			IN	A
+
+;; Query time: 953 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:18 -03 2025
+;; MSG SIZE  rcvd: 32
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.diarioaccion.com.ar @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 49911
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.diarioaccion.com.ar.	IN	A
+
+;; Query time: 823 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:19 -03 2025
+;; MSG SIZE  rcvd: 41
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.agendadelasmujeres.com.ar @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44923
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.agendadelasmujeres.com.ar.	IN	A
+
+;; Query time: 249 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:20 -03 2025
+;; MSG SIZE  rcvd: 47
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.cencoex.gob.ve @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 14885
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.cencoex.gob.ve.		IN	A
+
+;; Query time: 2914 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:22 -03 2025
+;; MSG SIZE  rcvd: 36
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> pwchyt.awsvpni.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27838
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;pwchyt.awsvpni.com.		IN	A
+
+;; Query time: 249 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:23 -03 2025
+;; MSG SIZE  rcvd: 36
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> mariacorinamundo.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58974
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;mariacorinamundo.com.		IN	A
+
+;; Query time: 270 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:23 -03 2025
+;; MSG SIZE  rcvd: 38
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> comanditos.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54636
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;comanditos.com.			IN	A
+
+;; Query time: 270 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:23 -03 2025
+;; MSG SIZE  rcvd: 32
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> notiviasve.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 35152
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;notiviasve.com.			IN	A
+
+;; Query time: 260 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:24 -03 2025
+;; MSG SIZE  rcvd: 32
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> ooni.cloudflare-dns.com/dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 56031
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ooni.cloudflare-dns.com/dns-query?dns=q80baaabaaaaaaaaa3d3dwdlegftcgxla2nvbqaaaqab. IN A
+
+;; Query time: 227 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:24 -03 2025
+;; MSG SIZE  rcvd: 100
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> cantv.net @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44401
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;cantv.net.			IN	A
+
+;; Query time: 227 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:24 -03 2025
+;; MSG SIZE  rcvd: 27
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> cloudapp.net @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45023
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;cloudapp.net.			IN	A
+
+;; Query time: 216 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:24 -03 2025
+;; MSG SIZE  rcvd: 30
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> blob.core.windows.net @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 32767
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;blob.core.windows.net.		IN	A
+
+;; Query time: 0 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:22 -03 2025
+;; MSG SIZE  rcvd: 39
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> azurewebsites.net @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 523
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;azurewebsites.net.		IN	A
+
+;; Query time: 216 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:22 -03 2025
+;; MSG SIZE  rcvd: 35
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> pelisplus.me @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 40679
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;pelisplus.me.			IN	A
+
+;; Query time: 1007 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:23 -03 2025
+;; MSG SIZE  rcvd: 30
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> vamosganar.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 24286
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;vamosganar.com.			IN	A
+
+;; Query time: 1680 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:25 -03 2025
+;; MSG SIZE  rcvd: 32
+
+;; communications error to 164.163.74.82#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.mariacorinapresidente.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 11202
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.mariacorinapresidente.com.	IN	A
+
+;; Query time: 1838 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:32 -03 2025
+;; MSG SIZE  rcvd: 47
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> cdninstagram.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 304
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;cdninstagram.com.		IN	A
+
+;; Query time: 729 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:33 -03 2025
+;; MSG SIZE  rcvd: 34
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.cne.gob.ve @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45375
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.cne.gob.ve.			IN	A
+
+;; ANSWER SECTION:
+www.cne.gob.ve.		17085	IN	CNAME	www.gslb.cne.gob.ve.
+
+;; Query time: 330 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:33 -03 2025
+;; MSG SIZE  rcvd: 55
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> surbitcoin.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 56456
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;surbitcoin.com.			IN	A
+
+;; Query time: 1321 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:35 -03 2025
+;; MSG SIZE  rcvd: 32
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.teenhealthfx.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14913
+;; flags: qr rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.teenhealthfx.com.		IN	A
+
+;; ANSWER SECTION:
+www.teenhealthfx.com.	21600	IN	CNAME	cdn.adobeaemcloud.com.
+cdn.adobeaemcloud.com.	19665	IN	CNAME	adobe-aem.map.fastly.net.
+adobe-aem.map.fastly.net. 60	IN	A	151.101.67.10
+adobe-aem.map.fastly.net. 60	IN	A	151.101.131.10
+adobe-aem.map.fastly.net. 60	IN	A	151.101.195.10
+adobe-aem.map.fastly.net. 60	IN	A	151.101.3.10
+
+;; Query time: 422 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:35 -03 2025
+;; MSG SIZE  rcvd: 172
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> partidounnuevotiempo.org @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 22750
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;partidounnuevotiempo.org.	IN	A
+
+;; Query time: 801 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:36 -03 2025
+;; MSG SIZE  rcvd: 42
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> primariaexteriorve.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24524
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;primariaexteriorve.com.		IN	A
+
+;; Query time: 400 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:36 -03 2025
+;; MSG SIZE  rcvd: 40
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> primariaexteriorve.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10240
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;primariaexteriorve.com.		IN	A
+
+;; Query time: 368 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:37 -03 2025
+;; MSG SIZE  rcvd: 40
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> use-application-dns.net @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60166
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;use-application-dns.net.	IN	A
+
+;; ANSWER SECTION:
+use-application-dns.net. 62	IN	A	35.190.14.201
+
+;; Query time: 270 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:37 -03 2025
+;; MSG SIZE  rcvd: 57
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> d3l0kqj5h9z9zs.cloudfront.net @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25205
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;d3l0kqj5h9z9zs.cloudfront.net.	IN	A
+
+;; Query time: 368 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:37 -03 2025
+;; MSG SIZE  rcvd: 47
+
+;; communications error to 164.163.74.82#53: timed out
+;; communications error to 164.163.74.82#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.museomarino.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 24989
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.museomarino.com.		IN	A
+
+;; Query time: 736 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:48 -03 2025
+;; MSG SIZE  rcvd: 37
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> tvhd.pe @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 44451
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;tvhd.pe.			IN	A
+
+;; Query time: 259 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:49 -03 2025
+;; MSG SIZE  rcvd: 25
+
+;; communications error to 164.163.74.82#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> pricesaskeloadsc.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20728
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;pricesaskeloadsc.com.		IN	A
+
+;; Query time: 292 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:54 -03 2025
+;; MSG SIZE  rcvd: 38
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.ragingbullcampaign.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 1114
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.ragingbullcampaign.com.	IN	A
+
+;; Query time: 0 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:53 -03 2025
+;; MSG SIZE  rcvd: 44
+
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.ragingbullcampaign.com @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 29995
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.ragingbullcampaign.com.	IN	A
+
+;; Query time: 996 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:45:54 -03 2025
+;; MSG SIZE  rcvd: 44
+
+;; communications error to 164.163.74.82#53: timed out
+;; communications error to 164.163.74.82#53: timed out
+
+; <<>> DiG 9.18.30-0ubuntu0.24.04.1-Ubuntu <<>> www.mnr.gov.cn @164.163.74.82
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 25042
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;www.mnr.gov.cn.			IN	A
+
+;; Query time: 1061 msec
+;; SERVER: 164.163.74.82#53(164.163.74.82) (UDP)
+;; WHEN: Sun Jan 26 14:46:05 -03 2025
+;; MSG SIZE  rcvd: 32
+
