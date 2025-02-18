@@ -1,21 +1,21 @@
-measurement_uid,input,dns_experiment_failure,http_experiment_failure,dns_consistency,accessible,resolver_asn,resolver_ip,status_code,tcp_ip,tcp_status
-20250111200651.306636_AR_webconnectivity_6ac1cd8d7247d4d5,https://pricesaskeloadsc.com/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,
-20250111183757.671117_AR_webconnectivity_026dba55914aa0de,https://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,
-20250111183608.494427_AR_webconnectivity_dc2c3d7d2f20e63a,http://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,
-20250111175805.584281_AR_webconnectivity_14d5f2062518c720,http://www.mnr.gov.cn/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,
-20250112220506.042044_AR_webconnectivity_65520ad6753806de,https://www.match.com/,,ssl_invalid_hostname,inconsistent,False,AS212238,84.252.114.4,200,208.83.242.43,"{'blocked': False, 'failure': None, 'success': True}"
-20250112214502.266588_AR_webconnectivity_1f35aa87bba859a1,https://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,200,,
-20250112211014.344522_AR_webconnectivity_42d49d2f6bbfeb65,http://www.museomarino.com/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,
-20250112194323.949518_AR_webconnectivity_58f2e90a5c441560,http://noticiasvenezuela.org/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,
-20250112183401.883840_AR_webconnectivity_41fc02ffd962caf3,https://www.llamagaming.com,,connection_reset,inconsistent,False,AS212238,84.252.114.4,200,216.245.197.41,"{'blocked': False, 'failure': None, 'success': True}"
-20250112170508.296683_AR_webconnectivity_25c7c8559c6ba7cb,https://pricesaskeloadsc.com/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,
-20250112151109.184542_AR_webconnectivity_c3fc5328dac598ba,https://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,
-20250112150916.076381_AR_webconnectivity_2a0ced3d33cd8180,http://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,
-20250112142458.481732_AR_webconnectivity_5d8dcf6732e71eda,http://www.mnr.gov.cn/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,
-20250112022545.056149_AR_webconnectivity_cf37837f2631a5b9,https://www.match.com/,,ssl_invalid_hostname,inconsistent,False,AS212238,84.252.114.4,200,208.83.242.43,"{'blocked': False, 'failure': None, 'success': True}"
-20250112015444.530619_AR_webconnectivity_b2a91022e65e205e,https://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,200,,
-20250112005937.112757_AR_webconnectivity_1335bdcbd1ce590c,http://www.museomarino.com/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,
-20250113051307.152544_AR_webconnectivity_9455615d80b16382,https://root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,200,,
-20250113051305.039364_AR_webconnectivity_b88c34780ebd57af,https://root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,200,,
-20250113051217.452919_AR_webconnectivity_612ec8970831cfe0,https://bogus.d2a8n1.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,
-20250113022403.748755_AR_webconnectivity_ae3603d43e747cc0,http://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,200,,
+measurement_uid,input,dns_experiment_failure,http_experiment_failure,dns_consistency,accessible,resolver_asn,resolver_ip,status_code,tcp_ip,tcp_status,category
+20250111200651.306636_AR_webconnectivity_6ac1cd8d7247d4d5,https://pricesaskeloadsc.com/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,,OTHER
+20250111183757.671117_AR_webconnectivity_026dba55914aa0de,https://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,,OTHER
+20250111183608.494427_AR_webconnectivity_dc2c3d7d2f20e63a,http://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,,OTHER
+20250111175805.584281_AR_webconnectivity_14d5f2062518c720,http://www.mnr.gov.cn/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,,GOVT
+20250112220506.042044_AR_webconnectivity_65520ad6753806de,https://www.match.com/,,ssl_invalid_hostname,inconsistent,False,AS212238,84.252.114.4,200,208.83.242.43,"{'blocked': False, 'failure': None, 'success': True}","GMB, DATE"
+20250112214502.266588_AR_webconnectivity_1f35aa87bba859a1,https://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,200,,,OTHER
+20250112211014.344522_AR_webconnectivity_42d49d2f6bbfeb65,http://www.museomarino.com/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,,OTHER
+20250112194323.949518_AR_webconnectivity_58f2e90a5c441560,http://noticiasvenezuela.org/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,,NEWS
+20250112183401.883840_AR_webconnectivity_41fc02ffd962caf3,https://www.llamagaming.com,,connection_reset,inconsistent,False,AS212238,84.252.114.4,200,216.245.197.41,"{'blocked': False, 'failure': None, 'success': True}","GMB, GAME"
+20250112170508.296683_AR_webconnectivity_25c7c8559c6ba7cb,https://pricesaskeloadsc.com/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,,OTHER
+20250112151109.184542_AR_webconnectivity_c3fc5328dac598ba,https://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,,OTHER
+20250112150916.076381_AR_webconnectivity_2a0ced3d33cd8180,http://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,,OTHER
+20250112142458.481732_AR_webconnectivity_5d8dcf6732e71eda,http://www.mnr.gov.cn/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,,GOVT
+20250112022545.056149_AR_webconnectivity_cf37837f2631a5b9,https://www.match.com/,,ssl_invalid_hostname,inconsistent,False,AS212238,84.252.114.4,200,208.83.242.43,"{'blocked': False, 'failure': None, 'success': True}","GMB, DATE"
+20250112015444.530619_AR_webconnectivity_b2a91022e65e205e,https://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,200,,,OTHER
+20250112005937.112757_AR_webconnectivity_1335bdcbd1ce590c,http://www.museomarino.com/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,,OTHER
+20250113051307.152544_AR_webconnectivity_9455615d80b16382,https://root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,200,,,OTHER
+20250113051305.039364_AR_webconnectivity_b88c34780ebd57af,https://root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,200,,,OTHER
+20250113051217.452919_AR_webconnectivity_612ec8970831cfe0,https://bogus.d2a8n1.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,-1,,,OTHER
+20250113022403.748755_AR_webconnectivity_ae3603d43e747cc0,http://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS212238,84.252.114.4,200,,,OTHER

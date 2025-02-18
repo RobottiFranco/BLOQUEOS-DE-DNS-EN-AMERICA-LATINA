@@ -1,21 +1,21 @@
-measurement_uid,input,dns_experiment_failure,http_experiment_failure,dns_consistency,accessible,resolver_asn,resolver_ip,status_code,tcp_ip,tcp_status
-20250109181140.330830_AR_webconnectivity_200d7edb6e4c51ed,https://root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,
-20250109181139.051978_AR_webconnectivity_39984d907335a096,https://root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,
-20250109180915.672889_AR_webconnectivity_5a5fcd9c66cca58a,https://bogus.d2a8n1.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,-1,,
-20250109180521.713270_AR_webconnectivity_9b59cdab68fe052a,https://icq.com/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,
-20250109171722.488594_AR_webconnectivity_28583a1dac426015,http://bitcoin.sipa.be/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,
-20250109171419.702260_AR_webconnectivity_6f80f7af57e9ba50,https://rates.airtm.io,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,-1,,
-20250109171416.949575_AR_webconnectivity_2f5eaa67532490cb,https://www.patria.org.ve/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,-1,,
-20250109170752.393427_AR_webconnectivity_67fc0dc4416a867e,http://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,
-20250109170615.416637_AR_webconnectivity_eb338a12aa22eeb7,https://tamtam.chat/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,
-20250109165350.481326_AR_webconnectivity_9d4bcfc7e945fdcc,https://mail.ru/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,
-20250109155125.520939_AR_webconnectivity_88b691a6ef822376,http://www.teenhealthfx.com/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,
-20250109154217.988836_AR_webconnectivity_da94caa0634245e7,https://www.match.com/,,ssl_invalid_hostname,inconsistent,False,AS262287,173.244.55.130,200,208.83.242.43,"{'blocked': False, 'failure': None, 'success': True}"
-20250109153424.419550_AR_webconnectivity_fd9bef58c1944e41,https://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,
-20250109152451.223728_AR_webconnectivity_e8c60690a7166e12,http://www.museomarino.com/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,403,,
-20250109142337.738492_AR_webconnectivity_0bc4d21b053477be,https://www.shadowbet.com,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,
-20250109125025.783423_AR_webconnectivity_899d419fd343bd5f,https://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,-1,,
-20250109124811.875403_AR_webconnectivity_d73870540b417f0d,http://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,-1,,
-20250109124023.501195_AR_webconnectivity_165326d5a490561c,http://www.appzplanet.com/,,,inconsistent,False,AS262287,173.244.55.130,200,185.107.56.55,"{'blocked': False, 'failure': None, 'success': True}"
-20250109123325.160245_AR_webconnectivity_a7fce87126cd72c3,https://www.lgbtimontevideo2016.org/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,
-20250109123004.251205_AR_webconnectivity_7aed2b93307c8d31,http://www.mnr.gov.cn/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,-1,,
+measurement_uid,input,dns_experiment_failure,http_experiment_failure,dns_consistency,accessible,resolver_asn,resolver_ip,status_code,tcp_ip,tcp_status,category
+20250109181140.330830_AR_webconnectivity_200d7edb6e4c51ed,https://root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,,OTHER
+20250109181139.051978_AR_webconnectivity_39984d907335a096,https://root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,,OTHER
+20250109180915.672889_AR_webconnectivity_5a5fcd9c66cca58a,https://bogus.d2a8n1.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,-1,,,OTHER
+20250109180521.713270_AR_webconnectivity_9b59cdab68fe052a,https://icq.com/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,,OTHER
+20250109171722.488594_AR_webconnectivity_28583a1dac426015,http://bitcoin.sipa.be/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,,OTHER
+20250109171419.702260_AR_webconnectivity_6f80f7af57e9ba50,https://rates.airtm.io,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,-1,,,OTHER
+20250109171416.949575_AR_webconnectivity_2f5eaa67532490cb,https://www.patria.org.ve/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,-1,,,OTHER
+20250109170752.393427_AR_webconnectivity_67fc0dc4416a867e,http://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,,OTHER
+20250109170615.416637_AR_webconnectivity_eb338a12aa22eeb7,https://tamtam.chat/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,,COMT
+20250109165350.481326_AR_webconnectivity_9d4bcfc7e945fdcc,https://mail.ru/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,,OTHER
+20250109155125.520939_AR_webconnectivity_88b691a6ef822376,http://www.teenhealthfx.com/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,,OTHER
+20250109154217.988836_AR_webconnectivity_da94caa0634245e7,https://www.match.com/,,ssl_invalid_hostname,inconsistent,False,AS262287,173.244.55.130,200,208.83.242.43,"{'blocked': False, 'failure': None, 'success': True}","GMB, DATE"
+20250109153424.419550_AR_webconnectivity_fd9bef58c1944e41,https://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,,OTHER
+20250109152451.223728_AR_webconnectivity_e8c60690a7166e12,http://www.museomarino.com/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,403,,,OTHER
+20250109142337.738492_AR_webconnectivity_0bc4d21b053477be,https://www.shadowbet.com,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,,GMB
+20250109125025.783423_AR_webconnectivity_899d419fd343bd5f,https://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,-1,,,OTHER
+20250109124811.875403_AR_webconnectivity_d73870540b417f0d,http://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,-1,,,OTHER
+20250109124023.501195_AR_webconnectivity_165326d5a490561c,http://www.appzplanet.com/,,,inconsistent,False,AS262287,173.244.55.130,200,185.107.56.55,"{'blocked': False, 'failure': None, 'success': True}",OTHER
+20250109123325.160245_AR_webconnectivity_a7fce87126cd72c3,https://www.lgbtimontevideo2016.org/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,,LGBT
+20250109123004.251205_AR_webconnectivity_7aed2b93307c8d31,http://www.mnr.gov.cn/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,-1,,,GOVT
