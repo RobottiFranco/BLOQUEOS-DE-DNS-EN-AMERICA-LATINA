@@ -2,7 +2,7 @@ measurement_uid,input,dns_experiment_failure,http_experiment_failure,dns_consist
 20250110191752.283038_DO_webconnectivity_7f28db340019393c,https://root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS137409,31.217.248.139,200,,,OTHER
 20250110191750.763626_DO_webconnectivity_ff1c40eec4095d52,https://root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS137409,31.217.248.139,200,,,OTHER
 20250110191654.468597_DO_webconnectivity_768032f0fdcf5448,https://bogus.d2a8n1.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS137409,31.217.248.139,-1,,,OTHER
-20250110184503.188269_DO_webconnectivity_f17a1df1d0d252b2,https://www.es-us.noticias.yahoo.com/,android_dns_cache_no_data,,inconsistent,False,AS137409,31.217.248.139,-1,,,"NEWS, SRCH"
+20250110184503.188269_DO_webconnectivity_f17a1df1d0d252b2,https://www.es-us.noticias.yahoo.com/,android_dns_cache_no_data,,inconsistent,False,AS137409,31.217.248.139,-1,,,"SRCH, NEWS"
 20250110182645.254115_DO_webconnectivity_75b7044b0de1a1d7,https://rates.airtm.io,android_dns_cache_no_data,,inconsistent,False,AS137409,31.217.248.139,-1,,,OTHER
 20250110182353.225042_DO_webconnectivity_4b24e7f0e46ced24,http://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS137409,31.217.248.139,200,,,OTHER
 20250110170842.488190_DO_webconnectivity_a0e1e38f16448c54,http://www.teenhealthfx.com/,android_dns_cache_no_data,,inconsistent,False,AS137409,31.217.248.139,200,,,OTHER

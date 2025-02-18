@@ -4,17 +4,17 @@ measurement_uid,input,dns_experiment_failure,http_experiment_failure,dns_consist
 20250108235219.741465_JM_webconnectivity_75f515a8f0e7d69a,http://www.hackhull.com/,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.131,200,,,OTHER
 20250108235208.892671_JM_webconnectivity_7e457e6660fecfd0,https://www.westernunion.com/,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.131,200,,,OTHER
 20250108233524.635232_JM_webconnectivity_96a0c3be5344c59f,https://rates.airtm.io,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.131,-1,,,OTHER
-20250108233320.169974_JM_webconnectivity_a87f0d74e765d8fa,http://www.match.com,,generic_timeout_error,inconsistent,False,AS137409,83.219.96.131,200,208.83.242.49,"{'blocked': False, 'failure': None, 'success': True}","DATE, GMB"
+20250108233320.169974_JM_webconnectivity_a87f0d74e765d8fa,http://www.match.com,,generic_timeout_error,inconsistent,False,AS137409,83.219.96.131,200,208.83.242.49,"{'blocked': False, 'failure': None, 'success': True}","GMB, DATE"
 20250108233043.567024_JM_webconnectivity_bb43742b78983511,http://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.131,200,,,OTHER
 20250108220400.585076_JM_webconnectivity_cca554112355e607,https://bitbucket.org/,,generic_timeout_error,inconsistent,False,AS137409,83.219.96.131,200,104.192.142.24,"{'blocked': False, 'failure': None, 'success': True}",OTHER
 20250108215423.295791_JM_webconnectivity_430d729331b7667b,http://www.teenhealthfx.com/,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.131,200,,,OTHER
-20250108214740.840440_JM_webconnectivity_a956a92a40f55c9a,https://www.match.com/,,generic_timeout_error,inconsistent,False,AS137409,83.219.96.131,200,208.83.242.49,"{'blocked': False, 'failure': None, 'success': True}","DATE, GMB"
+20250108214740.840440_JM_webconnectivity_a956a92a40f55c9a,https://www.match.com/,,generic_timeout_error,inconsistent,False,AS137409,83.219.96.131,200,208.83.242.49,"{'blocked': False, 'failure': None, 'success': True}","GMB, DATE"
 20250108213637.223810_JM_webconnectivity_520fe9476e05388c,https://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.131,200,,,OTHER
-20250108210949.878676_JM_webconnectivity_81feb7b80fb7378f,http://www.match.com/,,generic_timeout_error,inconsistent,False,AS137409,83.219.96.131,200,208.83.242.49,"{'blocked': False, 'failure': None, 'success': True}","DATE, GMB"
+20250108210949.878676_JM_webconnectivity_81feb7b80fb7378f,http://www.match.com/,,generic_timeout_error,inconsistent,False,AS137409,83.219.96.131,200,208.83.242.49,"{'blocked': False, 'failure': None, 'success': True}","GMB, DATE"
 20250108184146.164103_JM_webconnectivity_d0dab69546b04271,https://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.131,-1,,,OTHER
 20250108184034.660478_JM_webconnectivity_db67cb90bb59e471,http://www.ragingbullcampaign.com,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.131,-1,,,OTHER
 20250108183910.134496_JM_webconnectivity_32be768af7cf022d,https://www.dailymotion.com/,,generic_timeout_error,inconsistent,False,AS137409,83.219.96.131,200,3.134.235.187,"{'blocked': False, 'failure': None, 'success': True}",OTHER
-20250108183020.362846_JM_webconnectivity_cb0c340593b7acf1,http://www.bicommunitynews.co.uk/,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.131,200,,,OTHER
+20250108183020.362846_JM_webconnectivity_cb0c340593b7acf1,http://www.bicommunitynews.co.uk/,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.131,200,,,NEWS
 20250108182456.803721_JM_webconnectivity_5c3b98cdbed33af9,http://www.mnr.gov.cn/,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.131,-1,,,GOVT
 20250109003636.767561_JM_webconnectivity_37de733a0a868713,https://root-key-sentinel-is-ta-38696.d2a8n3.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.131,200,,,OTHER
 20250109003635.397263_JM_webconnectivity_e9d6bb323ac7d0ce,https://root-key-sentinel-not-ta-20326.d2a8n3.rootcanary.net/,android_dns_cache_no_data,,inconsistent,False,AS137409,83.219.96.131,200,,,OTHER
