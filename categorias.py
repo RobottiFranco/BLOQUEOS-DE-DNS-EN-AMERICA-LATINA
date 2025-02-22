@@ -6,9 +6,9 @@ categorias = {
     "REL": ["religión", "dios", "biblia", "corán", "iglesia", "mezquita", "templo", "budismo", "cristianismo", "islam", "hinduismo", "ateísmo", "teología", "rezar", "santo"],
     "PORN": ["porno", "pornografía", "xxx", "erótico", "adultos", "sex", "desnudo", "hardcore", "fetiche", "cams", "bdsm", "softcore", "hentai"],
     "PROV": ["bikini", "lingerie", "provocativo", "seductor", "modelo sexy", "atractivo", "exhibicionismo", "ropa ajustada"],
-    "POLR": ["crítica política", "oposición", "anticorrupción", "democracia", "dictadura", "protesta", "reforma", "autoritarismo", "censura", "represión", "activismo"],
+    "POLR": ["crítica política", "oposición", "anticorrupción", "democracia", "dictadura", "protesta", "reforma", "autoritarismo", "censura", "represión", "activismo", "patria"],
     "HUMR": ["derechos humanos", "feminismo", "igualdad", "justicia social", "minorías", "racismo", "discriminación", "género", "opresión", "abuso policial"],
-    "ENV": ["medio ambiente", "deforestación", "contaminación", "cambio climático", "ecología", "reciclaje", "biodiversidad", "energía renovable", "calentamiento global"],
+    "ENV": ["medio ambiente", "deforestación", "contaminación", "cambio climático", "ecología", "reciclaje", "biodiversidad", "energíarenovable", "calentamientoglobal", "energia", "renovable"],
     "MILX": ["terrorismo", "separatistas", "yihad", "militante", "guerrilla", "radicalismo", "insurgencia", "extremismo", "conflicto armado", "atentado", "mil"],
     "HATE": ["odio", "racista", "homofobia", "misoginia", "antisemita", "supremacía", "discurso de odio", "xenofobia", "transfobia"],
     "NEWS": ["noticias", "cnn", "bbc", "periódico", "informativo", "diario", "noticiero", "actualidad", "reportaje", "medios de comunicación", "news"],
@@ -25,14 +25,13 @@ categorias = {
     "MMED": ["videos", "youtube", "spotify", "soundcloud", "fotografía", "streaming", "música online", "twitch"],
     "HOST": ["blog", "wordpress", "blogspot", "hosting", "plataforma de publicación", "sitios web", "dominios"],
     "SRCH": ["buscador", "google", "bing", "yahoo", "duckduckgo", "motor de búsqueda", "brave", "navegador", "chrome", "firefox"],
-    "GAME": ["juego", "gamer", "videojuegos", "xbox", "playstation", "nintendo", "pc gaming", "steam", "esports", "play", "gaming"],
+    "GAME": ["juego", "gamer", "videojuegos", "xbox", "playstation", "nintendo", "gaming", "steam", "esports", "play", "gaming"],
     "CULTR": ["historia", "cine", "música", "literatura", "humor", "entretenimiento", "arte", "teatro", "series"],
-    "ECON": ["economía", "finanzas", "pobreza", "mercado", "desarrollo", "inversión", "crisis económica", "inflación"],
-    "GOVT": ["gobierno", ".gob", "ministerio", "militar", "fuerzas armadas", "política pública", "elecciones", "parlamento", "mil", "gov", "gob", "armada"],
+    "ECON": ["economía", "finanzas", "pobreza", "mercado", "desarrollo", "inversión", "crisis económica", "crisis","economica", "inflación"],
+    "GOVT": ["gobierno", ".gob", "ministerio", "militar", "fuerzas armadas", "políticapública", "politica", "elecciones", "parlamento", "mil", "gov", "gob", "armada"],
     "COMM": ["ecommerce", "compra", "venta", "tienda online", "amazon", "mercadolibre", "shopify", "dropshipping"],
     "CTRL": ["contenido benigno", "control", "inocuo", "apto para todo público"],
-    "IGO": ["onu", "unicef", "oms", "naciones unidas", "organización intergubernamental", "banco mundial", "fmi"],
-    "MISC": ["misceláneo", "sin categoría", "otros", "general"]
+    "IGO": ["onu", "unicef", "oms", "nacionesunidas", "intergubernamental", "bancomundial", "fmi"],
 }
 
 

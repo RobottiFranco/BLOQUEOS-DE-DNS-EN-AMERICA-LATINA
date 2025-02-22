@@ -56,7 +56,7 @@ measurement_uid,input,dns_experiment_failure,http_experiment_failure,dns_consist
 20250108203633.563450_UY_webconnectivity_3b995b5662d74a83,https://www.solverde.pt,,ssl_invalid_hostname,inconsistent,False,AS19422,200.58.141.25,200,200.58.157.165,"{'blocked': False, 'failure': None, 'success': True}",OTHER
 20250108203632.265728_UY_webconnectivity_dd091a73dab3d6f2,https://www.solbet.pe,,ssl_invalid_hostname,inconsistent,False,AS19422,200.58.141.25,200,200.58.157.165,"{'blocked': False, 'failure': None, 'success': True}",GMB
 20250108203630.630456_UY_webconnectivity_5530a300e1ebdd50,https://www.sloty.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,GMB
-20250108203629.878225_UY_webconnectivity_1cff6d4c716e4560,https://www.slotsmillion.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,"GMB, GOVT, MILX"
+20250108203629.878225_UY_webconnectivity_1cff6d4c716e4560,https://www.slotsmillion.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,"GMB, MILX, GOVT"
 20250108203629.142436_UY_webconnectivity_99b09b67747b80be,https://www.slotsmagic.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,GMB
 20250108203628.144782_UY_webconnectivity_a4aae2f345e83276,https://www.slotsdelsolonline.com,,ssl_invalid_hostname,inconsistent,False,AS19422,200.58.141.25,200,200.58.157.165,"{'blocked': False, 'failure': None, 'success': True}",GMB
 20250108203626.821344_UY_webconnectivity_059715c997a75d07,https://www.slotscapital.lv,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,GMB
@@ -201,7 +201,7 @@ measurement_uid,input,dns_experiment_failure,http_experiment_failure,dns_consist
 20250108203205.455658_UY_webconnectivity_467f82b0d52f6030,https://www.europacasino.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,GMB
 20250108203204.721016_UY_webconnectivity_94944ef99e419171,https://www.eurokingclub.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,OTHER
 20250108203203.101561_UY_webconnectivity_be43711775a4d27b,https://www.eucasino.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,GMB
-20250108203202.091684_UY_webconnectivity_eb3c0b856a7575dc,https://www.estorilsolcasinos.pt,,ssl_invalid_hostname,inconsistent,False,AS19422,200.58.141.25,403,200.58.157.165,"{'blocked': False, 'failure': None, 'success': True}","GMB, ANON"
+20250108203202.091684_UY_webconnectivity_eb3c0b856a7575dc,https://www.estorilsolcasinos.pt,,ssl_invalid_hostname,inconsistent,False,AS19422,200.58.141.25,403,200.58.157.165,"{'blocked': False, 'failure': None, 'success': True}","ANON, GMB"
 20250108203200.848117_UY_webconnectivity_ad456439c9a60d53,https://www.esportesdasorte.net,,ssl_invalid_hostname,inconsistent,False,AS19422,200.58.141.25,403,200.58.157.165,"{'blocked': False, 'failure': None, 'success': True}",OTHER
 20250108203159.640774_UY_webconnectivity_7ac78c521f053a77,https://www.enracha.es,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,OTHER
 20250108203158.199430_UY_webconnectivity_7191e99014a69d69,https://www.elcasinocaribe.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,GMB
@@ -509,7 +509,7 @@ measurement_uid,input,dns_experiment_failure,http_experiment_failure,dns_consist
 20250108201206.906250_UY_webconnectivity_ab2b5e9649752635,http://www.slotpark.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,GMB
 20250108201208.795887_UY_webconnectivity_c5df432d919d9782,http://www.slotocash.im,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,GMB
 20250108201206.098418_UY_webconnectivity_c541f7c3cb085390,http://www.slotscapital.lv,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,GMB
-20250108201200.888934_UY_webconnectivity_6b9ce05dfc829fd2,http://www.slotsmillion.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,"GMB, GOVT, MILX"
+20250108201200.888934_UY_webconnectivity_6b9ce05dfc829fd2,http://www.slotsmillion.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,"GMB, MILX, GOVT"
 20250108201201.939907_UY_webconnectivity_4664da8e6d5e34e6,http://www.slotsmagic.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,GMB
 20250108201157.636944_UY_webconnectivity_e8ebf141239a42e4,http://www.sloty.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,GMB
 20250108201156.867309_UY_webconnectivity_6d82cb1e64db22d2,http://www.spinit.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,OTHER
@@ -598,7 +598,7 @@ measurement_uid,input,dns_experiment_failure,http_experiment_failure,dns_consist
 20250108200930.541596_UY_webconnectivity_6a05a2bfe6d858de,https://www.buzzluck.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,403,,,OTHER
 20250108200929.814512_UY_webconnectivity_89b79020417fdaed,https://www.bwin.com,,ssl_invalid_hostname,inconsistent,False,AS19422,200.58.141.25,200,200.58.157.165,"{'blocked': False, 'failure': None, 'success': True}",OTHER
 20250108200928.428590_UY_webconnectivity_6ca34569c115bdb3,https://www.bwin.es,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,OTHER
-20250108200927.489695_UY_webconnectivity_b7b2a203a0fb3c77,https://www.caesarscasino.com,,ssl_invalid_hostname,inconsistent,False,AS19422,200.58.141.25,403,200.58.157.165,"{'blocked': False, 'failure': None, 'success': True}","GMB, PUBH"
+20250108200927.489695_UY_webconnectivity_b7b2a203a0fb3c77,https://www.caesarscasino.com,,ssl_invalid_hostname,inconsistent,False,AS19422,200.58.141.25,403,200.58.157.165,"{'blocked': False, 'failure': None, 'success': True}","PUBH, GMB"
 20250108200926.138776_UY_webconnectivity_a2ae41c033d60cfb,https://www.caliente.mx,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,OTHER
 20250108200925.387557_UY_webconnectivity_68173767ef95ce33,https://www.canbet.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,GMB
 20250108200923.278023_UY_webconnectivity_569af2046b90e938,https://www.cardschat.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,COMT
@@ -631,6 +631,6 @@ measurement_uid,input,dns_experiment_failure,http_experiment_failure,dns_consist
 20250109012900.394986_UY_webconnectivity_3ec1e12de8d48e8d,http://www.betfair.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,403,,,GMB
 20250109012859.609692_UY_webconnectivity_731065abbdebdf40,http://www.888casino.com,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,200,,,GMB
 20250109012426.199021_UY_webconnectivity_cdf9f58ba8f9b94f,https://rates.airtm.io,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,-1,,,OTHER
-20250109012423.887260_UY_webconnectivity_cca6f663d98d5939,https://www.patria.org.ve/,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,-1,,,OTHER
+20250109012423.887260_UY_webconnectivity_cca6f663d98d5939,https://www.patria.org.ve/,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,-1,,,POLR
 20250109003222.193224_UY_webconnectivity_2583cba35b1e707f,https://www.bet365.com/,android_dns_cache_no_data,,inconsistent,False,AS19422,200.58.141.25,403,,,GMB
 20250109003221.486467_UY_webconnectivity_7af814300ed3fc79,https://www.juegaenlinea.com/,,ssl_invalid_hostname,inconsistent,False,AS19422,200.58.141.25,403,200.58.157.165,"{'blocked': False, 'failure': None, 'success': True}",GMB

@@ -5,7 +5,7 @@ measurement_uid,input,dns_experiment_failure,http_experiment_failure,dns_consist
 20250109180521.713270_AR_webconnectivity_9b59cdab68fe052a,https://icq.com/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,,OTHER
 20250109171722.488594_AR_webconnectivity_28583a1dac426015,http://bitcoin.sipa.be/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,,OTHER
 20250109171419.702260_AR_webconnectivity_6f80f7af57e9ba50,https://rates.airtm.io,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,-1,,,OTHER
-20250109171416.949575_AR_webconnectivity_2f5eaa67532490cb,https://www.patria.org.ve/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,-1,,,OTHER
+20250109171416.949575_AR_webconnectivity_2f5eaa67532490cb,https://www.patria.org.ve/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,-1,,,POLR
 20250109170752.393427_AR_webconnectivity_67fc0dc4416a867e,http://use-application-dns.net/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,,OTHER
 20250109170615.416637_AR_webconnectivity_eb338a12aa22eeb7,https://tamtam.chat/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,,COMT
 20250109165350.481326_AR_webconnectivity_9d4bcfc7e945fdcc,https://mail.ru/,android_dns_cache_no_data,,inconsistent,False,AS262287,173.244.55.130,200,,,OTHER
